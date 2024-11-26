@@ -1,0 +1,1001 @@
+DeviceID,ClientID,ClientName,DeviceType,DeviceStatus,IssuesReported,ChangeRequestDate,ChangeCompletionDate,UpdateRequired,UpdateStatus,ResolutionTimeDays,CostoReparacion,Country,EfectividadAntesCambio,EfectividadDespuesCambio
+D0001,C002,Andrea Sanchez,gps,Inactivo,No conecta bien,25/03/2023,24/06/2024,si,Pendiente,457,1536,Guatemala,75.84,88.26
+D0002,C009,Fernando Ortega,monitor,Inactivo,No reconoce los datos,22/12/2024,27/12/2024,no,Completada,5,1846,Guatemala,56.58,80.75
+D0003,C010,Andrea Cruz,gps,Activo,Desconexion espontanea,01/10/2023,14/11/2024,si,Pendiente,410,1755,Barbados,67.36,82.96
+D0004,C003,Antonio Perez,monitor,Inactivo,Imagen borrosa,02/10/2023,06/02/2024,no,Pendiente,127,2616,Honduras,79.72,84.76
+D0005,C006,Eduardo Garcia,gps,Inactivo,No conecta bien,26/03/2023,08/01/2024,si,Pendiente,288,1654,Cuba,57.06,87.02
+D0006,C010,Sofia Ramos,gps,Activo,No reconoce los datos,21/05/2024,22/05/2024,si,Pendiente,1,1885,Saint Vincent y las Granadinas,57.1,98.63
+D0007,C002,Lucia Gomez,camara,Inactivo,Desconexion espontanea,19/07/2024,31/10/2024,si,Completada,104,2004,Brasil,55.95,81.58
+D0008,C010,Mariana Hernandez,monitor,En mantenimiento,Imagen borrosa,18/12/2023,20/05/2024,no,Pendiente,154,2022,Bolivia,50.91,88.61
+D0009,C006,Lucia Vargas,camara,Activo,No conecta bien,27/07/2024,17/12/2024,no,Pendiente,143,2298,Uruguay,59.33,86
+D0010,C010,Fernando Torres,camara,En mantenimiento,No reconoce los datos,23/06/2024,14/12/2024,no,Pendiente,174,1608,Brasil,76.87,88.5
+D0011,C004,Lucia Rodriguez,gps,Inactivo,Desconexion espontanea,30/05/2024,18/12/2024,no,Pendiente,202,1937,Ecuador,63.6,81.59
+D0012,C009,Andrea Hernandez,monitor,Activo,Imagen borrosa,16/09/2023,05/12/2023,no,Pendiente,80,1597,Surinam,69.26,98.52
+D0013,C008,Jorge Vargas,camara,En mantenimiento,No conecta bien,12/09/2024,27/09/2024,si,Completada,15,2443,Mexico,78.32,85.51
+D0014,C005,Diego Perez,camara,Inactivo,No reconoce los datos,04/10/2023,12/07/2024,si,Completada,282,2958,Ecuador,54.45,86.22
+D0015,C009,Miguel Gonzalez,camara,Activo,Desconexion espontanea,04/09/2024,23/09/2024,si,Pendiente,19,2086,Saint Vincent y las Granadinas,75.57,87.55
+D0016,C001,Francisco Vargas,gps,Inactivo,Imagen borrosa,06/02/2024,09/02/2024,si,Pendiente,3,2937,Trinidad y Tobago,60.43,92.69
+D0017,C002,Miguel Gomez,gps,En mantenimiento,No conecta bien,22/04/2023,14/01/2024,no,Pendiente,267,2067,Mexico,56.37,89.41
+D0018,C004,Eduardo Torres,monitor,En mantenimiento,No reconoce los datos,15/12/2023,05/10/2024,si,Pendiente,295,2764,Dominica,56.82,84.11
+D0019,C002,Fernando Garcia,camara,Activo,Desconexion espontanea,28/07/2023,16/08/2023,si,Completada,19,1713,Saint Lucia,75.62,87.03
+D0020,C001,Gabriel Perez,gps,Activo,Imagen borrosa,11/06/2024,26/12/2024,si,Completada,198,2896,El Salvador,79.75,94.18
+D0021,C004,Jorge Cruz,monitor,Activo,No conecta bien,12/12/2023,28/06/2024,no,Pendiente,199,2972,Paraguay,67.43,99.47
+D0022,C002,Carmen Diaz,camara,En mantenimiento,No reconoce los datos,11/09/2024,05/11/2024,no,Pendiente,55,2773,Belice,68.08,94.93
+D0023,C008,Diego Castillo,gps,Activo,Desconexion espontanea,20/09/2023,02/10/2024,si,Completada,378,1520,Cuba,71.94,96.4
+D0024,C009,Lucia Ramos,camara,En mantenimiento,Imagen borrosa,22/06/2023,27/09/2023,si,Pendiente,97,1767,Chile,76.19,98.95
+D0025,C007,Miguel Ortega,monitor,Inactivo,No conecta bien,06/02/2024,01/08/2024,no,Completada,177,1614,Bahamas,55.48,87.94
+D0026,C005,Carmen Martinez,camara,En mantenimiento,No reconoce los datos,28/04/2024,08/10/2024,si,Completada,163,2142,Venezuela,63.03,97.39
+D0027,C001,Fernando Rodriguez,monitor,En mantenimiento,Desconexion espontanea,20/11/2024,19/12/2024,si,Completada,29,1906,Guatemala,56.89,97.33
+D0028,C001,Francisco Garcia,camara,Activo,Imagen borrosa,04/05/2023,13/09/2023,no,Completada,132,1565,Venezuela,50.03,93.79
+D0029,C002,Elena Mendoza,camara,En mantenimiento,No conecta bien,30/11/2023,13/10/2024,si,Completada,318,1524,Cuba,70.63,84.04
+D0030,C004,Antonio Martinez,monitor,Inactivo,No reconoce los datos,16/02/2024,16/02/2024,si,Completada,0,1707,Costa Rica,55.61,91.74
+D0031,C001,Carlos Ramos,camara,En mantenimiento,Desconexion espontanea,06/07/2023,25/06/2024,si,Completada,355,1662,Colombia,61.2,88.85
+D0032,C004,Fernando Ortega,monitor,Activo,Imagen borrosa,16/04/2023,01/03/2024,si,Completada,320,2212,Barbados,61.49,88.2
+D0033,C009,Alejandra Ramirez,monitor,Activo,No conecta bien,17/08/2023,31/12/2023,si,Completada,136,2456,Panama,52.71,87.59
+D0034,C009,Carmen Gonzalez,camara,Inactivo,No reconoce los datos,29/07/2024,06/08/2024,no,Pendiente,8,1912,Trinidad y Tobago,64.5,82.84
+D0035,C008,Carmen Flores,monitor,Activo,Desconexion espontanea,30/05/2023,20/12/2024,no,Pendiente,570,2041,Paraguay,65.04,84.82
+D0036,C003,Lucia Ramos,camara,En mantenimiento,Imagen borrosa,30/08/2024,24/10/2024,no,Pendiente,55,2461,Saint Kitts y Nevis,67.56,89.22
+D0037,C003,Miguel Ramos,camara,Inactivo,No conecta bien,11/06/2023,24/07/2023,no,Completada,43,1599,Guyana,71.42,93.55
+D0038,C005,Isabel Ramirez,camara,Inactivo,No reconoce los datos,06/05/2024,11/08/2024,si,Completada,97,2853,Paraguay,65.75,85.53
+D0039,C004,Valeria Gomez,gps,Inactivo,Desconexion espontanea,18/09/2024,31/10/2024,si,Completada,43,2079,Saint Vincent y las Granadinas,73.31,96.37
+D0040,C005,Maria Perez,monitor,Activo,Imagen borrosa,18/12/2024,23/12/2024,si,Completada,5,2011,Granada,56.7,97.3
+D0041,C005,Luis Lopez,gps,Activo,No conecta bien,10/07/2023,01/09/2024,si,Pendiente,419,2347,Mexico,65.06,96.39
+D0042,C009,Gabriel Flores,monitor,En mantenimiento,No reconoce los datos,01/01/2024,07/10/2024,si,Pendiente,280,2832,Bahamas,65.52,92.13
+D0043,C010,Sofia Vargas,gps,Activo,Desconexion espontanea,13/08/2023,11/11/2023,no,Pendiente,90,2181,Ecuador,56.87,94.25
+D0044,C007,Valeria Hernandez,camara,Inactivo,Imagen borrosa,28/12/2023,23/09/2024,si,Pendiente,270,2054,Argentina,62.07,80.52
+D0045,C006,Paula Vargas,gps,En mantenimiento,No conecta bien,18/02/2024,01/07/2024,si,Pendiente,134,2478,Saint Kitts y Nevis,55.33,96.36
+D0046,C006,Antonio Martinez,monitor,Inactivo,No reconoce los datos,01/04/2024,03/06/2024,si,Pendiente,63,1935,Ecuador,74.5,82.72
+D0047,C003,Valeria Castillo,monitor,Inactivo,Desconexion espontanea,12/06/2023,05/09/2023,no,Completada,85,1519,Trinidad y Tobago,73.55,89.38
+D0048,C008,Alejandra Morales,monitor,En mantenimiento,Imagen borrosa,25/10/2023,16/12/2023,no,Pendiente,52,1938,Mexico,56.37,83.97
+D0049,C002,Andrea Castillo,camara,Inactivo,No conecta bien,27/03/2024,01/11/2024,si,Completada,219,2514,Santa Lucia,79.94,83.53
+D0050,C008,Mariana Ramos,monitor,Inactivo,No reconoce los datos,13/06/2023,09/10/2024,no,Completada,484,2347,Trinidad y Tobago,53.07,92.69
+D0051,C001,Valeria Gonzalez,monitor,Activo,Desconexion espontanea,07/11/2023,08/01/2024,si,Pendiente,62,2036,Mexico,50,84.1
+D0052,C003,Diego Diaz,monitor,En mantenimiento,Imagen borrosa,03/11/2023,20/04/2024,no,Completada,169,2621,Venezuela,52.82,83.31
+D0053,C009,Diego Rodriguez,monitor,En mantenimiento,No conecta bien,20/10/2023,29/10/2023,si,Pendiente,9,2559,Bolivia,63.49,92.48
+D0054,C005,Jorge Perez,monitor,En mantenimiento,No reconoce los datos,24/05/2024,28/11/2024,si,Completada,188,2118,San Cristobal y Nieves,58.43,94.04
+D0055,C009,Eduardo Torres,gps,Activo,Desconexion espontanea,16/04/2024,07/05/2024,no,Completada,21,2437,Brasil,77.03,99.97
+D0056,C007,Mariana Gomez,gps,Inactivo,Imagen borrosa,19/11/2023,13/07/2024,si,Pendiente,237,2341,Saint Vincent y las Granadinas,68.75,94.08
+D0057,C001,Francisco Perez,monitor,Inactivo,No conecta bien,02/11/2024,22/11/2024,si,Completada,20,2738,Paraguay,61.88,99.14
+D0058,C004,Lucia Perez,monitor,Inactivo,No reconoce los datos,19/05/2023,20/09/2023,si,Pendiente,124,2353,Santa Lucia,51.34,96.08
+D0059,C010,Elena Castillo,gps,Inactivo,Desconexion espontanea,20/03/2023,22/12/2023,no,Completada,277,2825,Ecuador,68.26,80.67
+D0060,C001,Miguel Vargas,monitor,Inactivo,Imagen borrosa,09/06/2023,14/03/2024,no,Completada,279,2228,Brasil,57.36,84.78
+D0061,C005,Isabel Ramos,camara,Activo,No conecta bien,09/03/2023,17/12/2023,si,Pendiente,283,2113,Cuba,60.19,93.12
+D0062,C001,Sofia Torres,gps,Activo,No reconoce los datos,11/04/2024,23/09/2024,no,Completada,165,1615,Dominica,72.43,96.69
+D0063,C002,Lucia Garcia,monitor,Inactivo,Desconexion espontanea,11/02/2023,20/04/2023,no,Pendiente,68,1579,Ecuador,71.07,88.47
+D0064,C003,Jorge Rodriguez,camara,En mantenimiento,Imagen borrosa,11/11/2024,31/12/2024,no,Pendiente,50,2994,Saint Vincent y las Granadinas,62.17,82.04
+D0065,C010,Antonio Garcia,monitor,En mantenimiento,No conecta bien,11/11/2024,11/11/2024,no,Completada,0,2648,Ecuador,77.41,99.8
+D0066,C002,Maria Ortega,gps,Inactivo,No reconoce los datos,26/08/2024,09/12/2024,si,Completada,105,2215,Republica Dominicana,62.28,82.07
+D0067,C008,Antonio Perez,gps,Activo,Desconexion espontanea,20/02/2023,16/05/2024,si,Pendiente,451,2782,Panama,78.48,98.01
+D0068,C008,Carmen Ortega,monitor,En mantenimiento,Imagen borrosa,14/07/2024,19/07/2024,si,Pendiente,5,2072,Honduras,64.34,86.87
+D0069,C010,Francisco Gomez,gps,Inactivo,No conecta bien,12/05/2023,26/02/2024,no,Pendiente,290,2192,Ecuador,68.24,92.6
+D0070,C005,Luis Torres,camara,En mantenimiento,No reconoce los datos,07/10/2023,28/02/2024,si,Pendiente,144,1771,Dominica,53.73,87.69
+D0071,C004,Juan Rodriguez,gps,En mantenimiento,Desconexion espontanea,28/05/2024,01/09/2024,no,Pendiente,96,2269,Paraguay,56.18,94.56
+D0072,C005,Andrea Castillo,monitor,En mantenimiento,Imagen borrosa,19/03/2023,22/05/2024,no,Completada,430,2378,Honduras,71.39,85.02
+D0073,C009,Valeria Hernandez,camara,En mantenimiento,No conecta bien,20/07/2024,13/09/2024,si,Completada,55,1725,Honduras,71.74,83.16
+D0074,C002,Miguel Martinez,monitor,Activo,No reconoce los datos,29/05/2024,04/08/2024,no,Completada,67,2813,Chile,61.2,88.82
+D0075,C002,Diego Ramos,monitor,Activo,Desconexion espontanea,02/12/2024,25/12/2024,no,Completada,23,2373,Costa Rica,50.57,93.08
+D0076,C001,Carlos Castillo,monitor,En mantenimiento,Imagen borrosa,26/06/2023,06/01/2024,no,Pendiente,194,2004,Dominica,77.11,97.66
+D0077,C005,Carmen Garcia,monitor,Inactivo,No conecta bien,09/01/2024,31/12/2024,si,Completada,357,1743,Paraguay,78.51,95.34
+D0078,C002,Maria Mendoza,gps,Activo,No reconoce los datos,18/10/2023,07/08/2024,no,Pendiente,294,1506,Argentina,57.97,86.84
+D0079,C002,Carmen Lopez,monitor,En mantenimiento,Desconexion espontanea,16/03/2023,30/08/2023,no,Pendiente,167,2662,Antigua y Barbuda,70.41,97.61
+D0080,C008,Elena Diaz,gps,Inactivo,Imagen borrosa,28/01/2024,30/10/2024,no,Pendiente,276,2718,Venezuela,65.08,88.37
+D0081,C004,Carlos Flores,monitor,Activo,No conecta bien,02/01/2024,12/01/2024,no,Completada,10,1737,Paraguay,62.7,91.68
+D0082,C001,Mariana Sanchez,monitor,En mantenimiento,No reconoce los datos,08/02/2023,16/10/2023,no,Pendiente,250,2779,Paraguay,70.78,81.82
+D0083,C005,Paula Lopez,gps,En mantenimiento,Desconexion espontanea,03/07/2023,16/06/2024,no,Pendiente,349,2080,Barbados,60.44,91.48
+D0084,C002,Isabel Hernandez,camara,En mantenimiento,Imagen borrosa,13/12/2024,22/12/2024,si,Completada,9,2905,El Salvador,69.03,98.18
+D0085,C008,Jorge Morales,camara,En mantenimiento,No conecta bien,24/04/2024,28/07/2024,si,Pendiente,95,1566,Bolivia,78.25,94.47
+D0086,C001,Gabriel Rodriguez,monitor,Inactivo,No reconoce los datos,28/05/2023,30/12/2023,si,Completada,216,2240,Bolivia,52.58,91.72
+D0087,C010,Diego Gomez,camara,En mantenimiento,Desconexion espontanea,30/07/2023,21/07/2024,no,Completada,357,2537,Cuba,51.52,86.8
+D0088,C009,Carlos Hernandez,camara,Activo,Imagen borrosa,20/10/2023,28/01/2024,si,Pendiente,100,1584,Panama,60.33,85.84
+D0089,C006,Jorge Torres,camara,Activo,No conecta bien,21/09/2023,06/01/2024,no,Completada,107,2353,Peru,55.49,81.99
+D0090,C008,Ana Diaz,monitor,Inactivo,No reconoce los datos,02/07/2024,12/08/2024,si,Pendiente,41,2360,Nicaragua,71.55,92.69
+D0091,C007,Elena Mendoza,gps,En mantenimiento,Desconexion espontanea,12/08/2023,20/11/2024,no,Pendiente,466,2215,Costa Rica,50.1,85.63
+D0092,C005,Elena Martinez,monitor,Inactivo,Imagen borrosa,08/12/2024,08/12/2024,si,Pendiente,0,1722,Guatemala,71.09,93.08
+D0093,C003,Carlos Vargas,gps,Activo,No conecta bien,08/10/2023,04/08/2024,si,Pendiente,301,2797,Belice,55.3,88
+D0094,C008,Andrea Vargas,camara,Activo,No reconoce los datos,17/11/2023,04/03/2024,no,Completada,108,2719,Saint Kitts y Nevis,66.04,82
+D0095,C004,Maria Flores,camara,Activo,Desconexion espontanea,27/06/2024,05/09/2024,si,Completada,70,2044,Bolivia,55.6,89.76
+D0096,C007,Paula Sanchez,monitor,Inactivo,Imagen borrosa,04/03/2023,18/08/2024,si,Pendiente,533,1511,Peru,70.26,92.11
+D0097,C008,Andrea Garcia,gps,Inactivo,No conecta bien,27/05/2024,04/12/2024,si,Completada,191,2036,Santa Lucia,76.72,92.92
+D0098,C004,Juan Sanchez,monitor,Inactivo,No reconoce los datos,05/09/2023,06/12/2024,no,Pendiente,458,2709,Saint Kitts y Nevis,57.84,89.82
+D0099,C007,Antonio Gonzalez,camara,Activo,Desconexion espontanea,31/12/2023,17/10/2024,si,Completada,291,1576,Antigua y Barbuda,77.09,84.13
+D0100,C009,Francisco Cruz,camara,En mantenimiento,Imagen borrosa,14/11/2024,14/11/2024,no,Completada,0,2605,Surinam,79.98,81.1
+D0101,C006,Jorge Ortega,camara,Inactivo,No conecta bien,27/01/2024,17/03/2024,no,Completada,50,2805,San Cristobal y Nieves,77.65,83.57
+D0102,C008,Jorge Ortega,gps,En mantenimiento,No reconoce los datos,17/09/2024,30/11/2024,no,Pendiente,74,2902,Paraguay,50.35,86.21
+D0103,C002,Luis Lopez,monitor,Activo,Desconexion espontanea,10/11/2023,13/09/2024,no,Pendiente,308,2269,Dominica,55.96,80.8
+D0104,C006,Antonio Ortega,monitor,Activo,Imagen borrosa,05/08/2024,29/08/2024,no,Completada,24,2628,Brasil,75.92,82.89
+D0105,C007,Raul Hernandez,camara,Activo,No conecta bien,08/11/2024,17/11/2024,si,Completada,9,1857,Saint Kitts y Nevis,68.99,98.59
+D0106,C008,Juan Diaz,gps,Activo,No reconoce los datos,24/08/2024,01/11/2024,si,Completada,69,1618,Argentina,59.83,81.73
+D0107,C007,Sofia Vargas,gps,Inactivo,Desconexion espontanea,17/11/2023,05/06/2024,no,Pendiente,201,1792,Honduras,55.43,86.85
+D0108,C005,Jorge Martinez,gps,Inactivo,Imagen borrosa,13/01/2024,14/11/2024,si,Pendiente,306,2363,Belice,65.8,95.69
+D0109,C004,Andrea Ramos,camara,Activo,No conecta bien,11/11/2023,09/10/2024,no,Completada,333,1897,Mexico,75.2,87.58
+D0110,C002,Juan Morales,monitor,Inactivo,No reconoce los datos,26/06/2023,23/01/2024,si,Pendiente,211,2371,Nicaragua,76.86,83.4
+D0111,C007,Diego Mendoza,monitor,Activo,Desconexion espontanea,20/04/2024,11/12/2024,no,Pendiente,235,1528,Dominica,77.58,98.46
+D0112,C005,Ana Garcia,camara,Inactivo,Imagen borrosa,06/05/2023,06/12/2024,si,Pendiente,580,2911,El Salvador,54.89,91.91
+D0113,C009,Ana Gomez,gps,Inactivo,No conecta bien,09/09/2024,20/12/2024,si,Completada,102,2590,Saint Vincent y las Granadinas,69.1,88.91
+D0114,C010,Lucia Martinez,monitor,Inactivo,No reconoce los datos,17/02/2023,14/12/2023,no,Pendiente,300,1682,Paraguay,70.19,99.28
+D0115,C010,Eduardo Hernandez,gps,Activo,Desconexion espontanea,02/10/2023,01/11/2024,si,Completada,396,2236,Surinam,77.74,82.16
+D0116,C008,Paula Torres,gps,Activo,Imagen borrosa,04/07/2024,14/09/2024,no,Completada,72,1915,Nicaragua,51.11,98.96
+D0117,C010,Miguel Cruz,camara,En mantenimiento,No conecta bien,28/08/2024,01/09/2024,no,Pendiente,4,1983,Paraguay,55.5,92.38
+D0118,C008,Jorge Lopez,monitor,Inactivo,No reconoce los datos,28/10/2024,20/12/2024,no,Pendiente,53,2579,Panama,66.11,81.33
+D0119,C004,Lucia Diaz,camara,Activo,Desconexion espontanea,25/11/2023,05/03/2024,si,Pendiente,101,2084,Panama,72.32,94.72
+D0120,C003,Antonio Ramirez,monitor,Activo,Imagen borrosa,06/06/2024,11/11/2024,no,Pendiente,158,1721,Guatemala,58.07,82.4
+D0121,C010,Juan Castillo,monitor,Activo,No conecta bien,18/03/2024,16/10/2024,no,Pendiente,212,1824,Saint Lucia,75.22,96.6
+D0122,C001,Fernando Perez,gps,Inactivo,No reconoce los datos,08/02/2023,22/04/2024,no,Completada,439,2628,Argentina,59.64,99.03
+D0123,C007,Carlos Morales,gps,En mantenimiento,Desconexion espontanea,04/05/2024,21/12/2024,si,Pendiente,231,2192,Republica Dominicana,72.3,92.57
+D0124,C010,Valeria Flores,camara,En mantenimiento,Imagen borrosa,04/11/2023,19/09/2024,no,Pendiente,320,1843,Ecuador,63.42,83.16
+D0125,C007,Alejandra Diaz,camara,En mantenimiento,No conecta bien,20/03/2023,25/11/2023,si,Pendiente,250,2053,Trinidad y Tobago,62.91,84.54
+D0126,C010,Diego Hernandez,monitor,En mantenimiento,No reconoce los datos,20/04/2024,22/04/2024,no,Pendiente,2,2375,Paraguay,53.98,92.36
+D0127,C002,Paula Rodriguez,monitor,En mantenimiento,Desconexion espontanea,09/07/2024,13/07/2024,no,Pendiente,4,2229,Belice,59.56,90.12
+D0128,C007,Fernando Sanchez,monitor,Inactivo,Imagen borrosa,15/01/2024,12/05/2024,no,Pendiente,118,2303,Uruguay,70.92,82.06
+D0129,C002,Jorge Lopez,camara,Activo,No conecta bien,21/03/2024,21/03/2024,no,Pendiente,0,2875,Cuba,73.2,97.8
+D0130,C002,Carmen Perez,gps,En mantenimiento,No reconoce los datos,27/01/2023,01/07/2023,no,Completada,155,2488,Costa Rica,79.59,85.26
+D0131,C009,Jorge Ramos,monitor,En mantenimiento,Desconexion espontanea,18/07/2024,23/09/2024,si,Completada,67,2703,Peru,62.22,97.35
+D0132,C005,Gabriel Diaz,camara,Inactivo,Imagen borrosa,21/11/2023,01/10/2024,no,Completada,315,2142,Dominica,61.67,86.79
+D0133,C001,Diego Martinez,gps,En mantenimiento,No conecta bien,09/04/2024,22/05/2024,no,Pendiente,43,2648,San Cristobal y Nieves,60.5,83.92
+D0134,C003,Diego Cruz,camara,En mantenimiento,No reconoce los datos,10/11/2023,11/11/2023,no,Completada,1,2136,Costa Rica,52.79,86.14
+D0135,C006,Elena Ramos,monitor,Activo,Desconexion espontanea,14/11/2024,25/11/2024,si,Pendiente,11,1773,Belice,79.39,90.58
+D0136,C005,Alejandra Gonzalez,camara,Inactivo,Imagen borrosa,23/09/2023,26/07/2024,no,Pendiente,307,2329,Antigua y Barbuda,74.32,88.01
+D0137,C007,Eduardo Sanchez,monitor,En mantenimiento,No conecta bien,27/09/2024,06/12/2024,no,Pendiente,70,2906,Mexico,62.87,97.18
+D0138,C010,Lucia Castillo,monitor,Activo,No reconoce los datos,27/03/2023,06/09/2023,no,Completada,163,2836,Barbados,70.37,96.48
+D0139,C008,Alejandra Flores,monitor,Activo,Desconexion espontanea,25/01/2024,24/07/2024,si,Pendiente,181,2603,Panama,70.41,85
+D0140,C007,Luis Morales,gps,Activo,Imagen borrosa,17/02/2023,24/11/2023,si,Completada,280,2931,Venezuela,72.63,85.31
+D0141,C005,Carmen Mendoza,camara,Activo,No conecta bien,13/05/2024,09/11/2024,si,Pendiente,180,1727,Bolivia,52.52,96.65
+D0142,C002,Carmen Lopez,gps,Activo,No reconoce los datos,29/04/2024,26/06/2024,no,Completada,58,2112,Colombia,76.95,81.03
+D0143,C006,Fernando Ramirez,camara,Activo,Desconexion espontanea,10/11/2024,05/12/2024,si,Completada,25,2260,Jamaica,77.13,84.64
+D0144,C003,Juan Lopez,monitor,Activo,Imagen borrosa,17/10/2024,11/11/2024,si,Pendiente,25,2144,Chile,70.41,92.05
+D0145,C002,Carlos Vargas,gps,Inactivo,No conecta bien,31/03/2024,27/12/2024,no,Completada,271,2520,Chile,66.97,94.57
+D0146,C006,Paula Cruz,monitor,Activo,No reconoce los datos,03/12/2024,20/12/2024,si,Completada,17,1977,Bolivia,65.27,86.58
+D0147,C008,Andrea Rodriguez,gps,Activo,Desconexion espontanea,27/03/2024,03/08/2024,no,Completada,129,2660,Uruguay,69.07,87.98
+D0148,C010,Andrea Mendoza,monitor,Inactivo,Imagen borrosa,14/03/2023,23/04/2024,no,Pendiente,406,1683,Uruguay,67.3,86.3
+D0149,C006,Maria Lopez,gps,En mantenimiento,No conecta bien,22/03/2023,02/06/2024,si,Completada,438,1952,Guatemala,70.54,82.21
+D0150,C001,Alejandra Ramos,monitor,Inactivo,No reconoce los datos,28/02/2024,02/10/2024,no,Pendiente,217,2147,Saint Lucia,55.25,99.41
+D0151,C007,Miguel Castillo,camara,En mantenimiento,Desconexion espontanea,18/05/2023,23/04/2024,no,Completada,341,2243,Bolivia,53.6,99.25
+D0152,C005,Carmen Rodriguez,monitor,En mantenimiento,Imagen borrosa,24/02/2023,24/06/2024,no,Completada,486,2380,Granada,62.39,92.79
+D0153,C007,Lucia Torres,gps,En mantenimiento,No conecta bien,28/09/2023,13/12/2024,si,Pendiente,442,1888,Jamaica,77.34,89.24
+D0154,C009,Fernando Gonzalez,monitor,En mantenimiento,No reconoce los datos,31/01/2023,18/03/2023,no,Completada,46,2660,Honduras,60.17,82.38
+D0155,C008,Luis Martinez,monitor,Activo,Desconexion espontanea,21/05/2024,20/08/2024,si,Completada,91,2946,Brasil,76.84,83.51
+D0156,C006,Eduardo Perez,monitor,En mantenimiento,Imagen borrosa,18/01/2023,22/02/2024,no,Pendiente,400,2501,Honduras,63.15,98.96
+D0157,C008,Raul Perez,camara,Inactivo,No conecta bien,14/04/2023,28/09/2024,si,Completada,533,1531,Granada,52.89,87.08
+D0158,C008,Luis Morales,gps,En mantenimiento,No reconoce los datos,21/04/2024,10/12/2024,si,Completada,233,2358,Surinam,69.61,87.06
+D0159,C004,Luis Flores,camara,Inactivo,Desconexion espontanea,25/06/2024,12/09/2024,si,Completada,79,2502,Brasil,71.42,86.13
+D0160,C005,Antonio Ortega,monitor,Inactivo,Imagen borrosa,19/01/2023,18/03/2023,no,Pendiente,58,1564,Bahamas,62.93,81.59
+D0161,C008,Sofia Diaz,monitor,Inactivo,No conecta bien,04/12/2024,16/12/2024,si,Pendiente,12,2205,Costa Rica,58.47,84.1
+D0162,C004,Carmen Torres,camara,Activo,No reconoce los datos,23/08/2024,11/09/2024,si,Completada,19,2333,Guyana,56.6,97.13
+D0163,C008,Luis Mendoza,camara,Inactivo,Desconexion espontanea,07/08/2024,10/08/2024,no,Pendiente,3,2804,Trinidad y Tobago,79.58,83.12
+D0164,C005,Eduardo Perez,monitor,En mantenimiento,Imagen borrosa,03/02/2024,22/06/2024,no,Pendiente,140,2646,Uruguay,65.81,99.86
+D0165,C004,Raul Mendoza,gps,En mantenimiento,No conecta bien,17/01/2023,03/12/2024,si,Pendiente,686,2628,Saint Kitts y Nevis,69.59,93.7
+D0166,C009,Elena Hernandez,monitor,En mantenimiento,No reconoce los datos,10/06/2024,18/10/2024,no,Pendiente,130,2426,Brasil,61.03,95.35
+D0167,C002,Valeria Sanchez,camara,Activo,Desconexion espontanea,31/10/2024,20/11/2024,no,Completada,20,2752,El Salvador,68.84,88.08
+D0168,C007,Francisco Gomez,gps,En mantenimiento,Imagen borrosa,28/06/2023,09/12/2024,si,Completada,530,2850,Saint Lucia,56.2,90.05
+D0169,C010,Gabriel Vargas,monitor,Activo,No conecta bien,22/09/2024,04/10/2024,si,Pendiente,12,2299,Costa Rica,56.43,95.74
+D0170,C008,Mariana Flores,camara,Activo,No reconoce los datos,21/08/2024,03/09/2024,si,Pendiente,13,2795,Dominica,61.34,91.82
+D0171,C004,Mariana Garcia,gps,Inactivo,Desconexion espontanea,01/01/2023,06/07/2023,no,Pendiente,186,2832,Jamaica,57.65,89.87
+D0172,C004,Antonio Garcia,monitor,Activo,Imagen borrosa,15/08/2023,16/11/2023,si,Completada,93,2347,Ecuador,72.03,87.3
+D0173,C007,Paula Ramos,gps,Inactivo,No conecta bien,23/09/2023,27/03/2024,si,Completada,186,2790,Jamaica,53.18,94.05
+D0174,C002,Fernando Ramirez,monitor,Inactivo,No reconoce los datos,17/03/2024,26/05/2024,no,Pendiente,70,2881,Saint Vincent y las Granadinas,56.39,96.27
+D0175,C005,Valeria Hernandez,monitor,En mantenimiento,Desconexion espontanea,09/11/2023,24/09/2024,si,Pendiente,320,2737,Peru,59.19,90.76
+D0176,C010,Sofia Morales,monitor,En mantenimiento,Imagen borrosa,08/02/2024,11/10/2024,si,Completada,246,1949,Jamaica,57.2,98.53
+D0177,C001,Eduardo Cruz,monitor,En mantenimiento,No conecta bien,08/01/2023,11/06/2024,si,Pendiente,520,1621,Guyana,55.68,89.06
+D0178,C006,Maria Flores,monitor,En mantenimiento,No reconoce los datos,25/12/2023,30/08/2024,no,Pendiente,249,1746,Paraguay,51.96,90.66
+D0179,C006,Lucia Vargas,camara,En mantenimiento,Desconexion espontanea,29/10/2024,08/12/2024,si,Completada,40,2851,Nicaragua,79.18,96.47
+D0180,C003,Ana Ramos,monitor,Inactivo,Imagen borrosa,14/03/2024,22/11/2024,si,Pendiente,253,2526,Paraguay,64.96,93.76
+D0181,C008,Miguel Lopez,camara,Inactivo,No conecta bien,09/10/2024,23/10/2024,si,Pendiente,14,2211,Saint Lucia,57.26,96.14
+D0182,C003,Luis Rodriguez,camara,En mantenimiento,No reconoce los datos,12/11/2024,29/11/2024,no,Completada,17,2620,Paraguay,74.18,88.25
+D0183,C003,Alejandra Vargas,camara,En mantenimiento,Desconexion espontanea,09/05/2023,28/03/2024,si,Completada,324,1686,Bolivia,70.66,99.62
+D0184,C009,Diego Ramirez,gps,Inactivo,Imagen borrosa,06/08/2023,06/06/2024,no,Completada,305,2243,Guatemala,55.73,98.88
+D0185,C008,Valeria Rodriguez,camara,Inactivo,No conecta bien,21/05/2023,15/07/2023,si,Completada,55,1974,Mexico,79.74,98.71
+D0186,C002,Raul Garcia,gps,En mantenimiento,No reconoce los datos,11/02/2023,10/04/2023,si,Pendiente,58,2700,El Salvador,57.35,86.47
+D0187,C003,Andrea Vargas,gps,Activo,Desconexion espontanea,14/09/2023,20/04/2024,si,Completada,219,1858,Saint Vincent y las Granadinas,55.09,97.78
+D0188,C006,Fernando Castillo,camara,En mantenimiento,Imagen borrosa,09/09/2023,16/01/2024,no,Completada,129,2476,Surinam,67.75,93.49
+D0189,C003,Miguel Sanchez,gps,En mantenimiento,No conecta bien,23/10/2023,19/03/2024,si,Pendiente,148,2137,San Cristobal y Nieves,59.85,82.78
+D0190,C010,Fernando Hernandez,camara,En mantenimiento,No reconoce los datos,20/12/2023,11/07/2024,si,Pendiente,204,2993,Cuba,65.35,89.03
+D0191,C004,Eduardo Torres,camara,En mantenimiento,Desconexion espontanea,25/12/2023,02/01/2024,no,Completada,8,1510,Santa Lucia,64.25,88.01
+D0192,C004,Andrea Ramos,monitor,Inactivo,Imagen borrosa,18/02/2024,16/09/2024,no,Completada,211,2493,Panama,68.76,81.7
+D0193,C004,Fernando Garcia,monitor,Activo,No conecta bien,23/10/2024,13/11/2024,si,Pendiente,21,1917,Uruguay,63.02,83.32
+D0194,C006,Carlos Mendoza,monitor,Activo,No reconoce los datos,25/09/2024,25/11/2024,si,Pendiente,61,1664,Santa Lucia,50.17,85.62
+D0195,C005,Isabel Perez,monitor,Inactivo,Desconexion espontanea,04/10/2023,16/11/2023,si,Pendiente,43,2451,Mexico,77.48,97.63
+D0196,C009,Lucia Torres,monitor,Inactivo,Imagen borrosa,10/05/2023,29/12/2024,no,Completada,599,2848,Panama,76.37,87.34
+D0197,C008,Carlos Morales,gps,En mantenimiento,No conecta bien,24/08/2023,14/12/2023,no,Completada,112,2286,Costa Rica,75.45,81.41
+D0198,C005,Luis Mendoza,camara,Activo,No reconoce los datos,29/03/2023,18/01/2024,si,Completada,295,1923,Saint Kitts y Nevis,56.65,81.91
+D0199,C001,Luis Rodriguez,gps,Activo,Desconexion espontanea,29/04/2023,24/03/2024,si,Completada,330,2524,Jamaica,63.64,92.7
+D0200,C008,Antonio Gonzalez,gps,En mantenimiento,Imagen borrosa,26/02/2023,14/06/2024,no,Completada,474,2914,Peru,79.07,93.8
+D0201,C006,Luis Rodriguez,monitor,Inactivo,No conecta bien,15/06/2024,11/09/2024,no,Completada,88,2438,Panama,62.92,86.23
+D0202,C006,Raul Perez,monitor,Inactivo,No reconoce los datos,03/11/2024,03/11/2024,si,Completada,0,2935,San Cristobal y Nieves,52.53,96.16
+D0203,C007,Diego Sanchez,camara,Inactivo,Desconexion espontanea,12/04/2024,28/07/2024,no,Completada,107,2066,Peru,70.75,88.62
+D0204,C001,Antonio Perez,monitor,En mantenimiento,Imagen borrosa,07/01/2023,24/10/2023,no,Completada,290,1846,Ecuador,75.6,82.71
+D0205,C001,Carlos Garcia,camara,Activo,No conecta bien,09/04/2024,18/10/2024,si,Pendiente,192,1654,Saint Kitts y Nevis,57.74,81.46
+D0206,C010,Miguel Castillo,monitor,Activo,No reconoce los datos,23/02/2023,16/06/2023,no,Completada,113,1534,Panama,73.45,89.74
+D0207,C001,Andrea Sanchez,monitor,Activo,Desconexion espontanea,06/12/2024,17/12/2024,si,Completada,11,2066,Republica Dominicana,53.49,86.8
+D0208,C009,Eduardo Morales,monitor,Inactivo,Imagen borrosa,11/06/2024,18/09/2024,no,Completada,99,2066,Argentina,71.09,85.55
+D0209,C005,Raul Garcia,camara,Activo,No conecta bien,08/11/2023,09/07/2024,no,Pendiente,244,2057,Santa Lucia,79.44,97.69
+D0210,C002,Carlos Torres,gps,En mantenimiento,No reconoce los datos,02/11/2023,01/01/2024,no,Completada,60,2068,Honduras,57.54,81.99
+D0211,C002,Isabel Gonzalez,monitor,En mantenimiento,Desconexion espontanea,14/07/2024,15/09/2024,si,Pendiente,63,2695,Mexico,76.98,86.49
+D0212,C009,Jorge Diaz,gps,Activo,Imagen borrosa,07/02/2023,30/09/2024,si,Completada,601,2125,Dominica,63.71,97.23
+D0213,C009,Ana Ortega,camara,Activo,No conecta bien,22/12/2023,01/05/2024,si,Pendiente,131,2841,Jamaica,52.54,98.31
+D0214,C009,Elena Castillo,gps,En mantenimiento,No reconoce los datos,08/06/2024,04/12/2024,si,Completada,179,2920,Mexico,78.11,87.52
+D0215,C010,Carlos Lopez,monitor,En mantenimiento,Desconexion espontanea,04/05/2023,21/08/2024,si,Completada,475,2679,Honduras,71.06,86.57
+D0216,C008,Maria Vargas,gps,Inactivo,Imagen borrosa,04/07/2023,05/10/2023,no,Pendiente,93,2152,Republica Dominicana,73.21,97.57
+D0217,C005,Sofia Torres,camara,En mantenimiento,No conecta bien,10/05/2023,17/01/2024,no,Pendiente,252,2034,San Cristobal y Nieves,57.87,93.5
+D0218,C002,Andrea Diaz,gps,En mantenimiento,No reconoce los datos,03/11/2023,10/03/2024,si,Pendiente,128,2204,Chile,55.74,88.3
+D0219,C006,Alejandra Morales,gps,En mantenimiento,Desconexion espontanea,16/05/2023,17/11/2024,si,Completada,551,2067,Republica Dominicana,74.03,95.04
+D0220,C002,Valeria Castillo,camara,Activo,Imagen borrosa,10/03/2024,05/05/2024,si,Pendiente,56,2279,Surinam,70.73,81.32
+D0221,C008,Fernando Castillo,gps,Inactivo,No conecta bien,10/01/2023,05/04/2024,no,Pendiente,451,2231,Mexico,66.71,98.2
+D0222,C001,Luis Garcia,camara,Inactivo,No reconoce los datos,04/05/2023,10/08/2023,no,Pendiente,98,2907,Paraguay,58.66,91.06
+D0223,C006,Antonio Sanchez,camara,Activo,Desconexion espontanea,26/03/2024,05/05/2024,no,Pendiente,40,1901,Argentina,55.33,96.26
+D0224,C007,Antonio Mendoza,monitor,En mantenimiento,Imagen borrosa,14/12/2024,28/12/2024,no,Completada,14,2806,Antigua y Barbuda,68.24,82.91
+D0225,C002,Antonio Hernandez,monitor,Activo,No conecta bien,11/10/2023,08/11/2023,no,Completada,28,1783,Trinidad y Tobago,68.42,94.03
+D0226,C006,Mariana Cruz,camara,Activo,No reconoce los datos,18/01/2024,05/11/2024,no,Completada,292,1525,Paraguay,69.76,99.86
+D0227,C003,Ana Diaz,gps,Inactivo,Desconexion espontanea,14/03/2024,20/11/2024,no,Completada,251,1865,Ecuador,78.94,89.92
+D0228,C001,Diego Flores,camara,Activo,Imagen borrosa,15/04/2024,21/05/2024,si,Pendiente,36,2539,Nicaragua,77.17,86.48
+D0229,C008,Maria Gonzalez,camara,Inactivo,No conecta bien,02/10/2023,07/10/2024,no,Pendiente,371,2891,Barbados,73.95,91.12
+D0230,C008,Luis Morales,monitor,Activo,No reconoce los datos,15/03/2023,30/05/2024,no,Completada,442,2339,Mexico,77.4,96.03
+D0231,C009,Elena Sanchez,monitor,Activo,Desconexion espontanea,05/09/2024,16/09/2024,no,Pendiente,11,2455,Nicaragua,77.31,90.19
+D0232,C004,Isabel Torres,monitor,Inactivo,Imagen borrosa,01/06/2024,10/06/2024,si,Completada,9,2370,Saint Vincent y las Granadinas,77.84,91.63
+D0233,C001,Andrea Hernandez,camara,Activo,No conecta bien,03/06/2023,14/04/2024,si,Pendiente,316,2261,Granada,61.02,96.28
+D0234,C010,Alejandra Ramos,camara,En mantenimiento,No reconoce los datos,26/01/2024,02/09/2024,si,Completada,220,2264,Guyana,76.65,82.34
+D0235,C003,Andrea Castillo,gps,Activo,Desconexion espontanea,02/05/2023,14/08/2023,no,Pendiente,104,2942,Guatemala,64.67,96.16
+D0236,C007,Valeria Diaz,gps,Activo,Imagen borrosa,22/04/2024,13/12/2024,no,Pendiente,235,1539,Santa Lucia,57.09,92.78
+D0237,C006,Carlos Torres,camara,Inactivo,No conecta bien,18/05/2023,09/07/2024,no,Completada,418,2365,Surinam,62.65,91.33
+D0238,C009,Antonio Gomez,gps,Activo,No reconoce los datos,22/06/2023,26/10/2023,no,Pendiente,126,2060,Granada,57.94,81.9
+D0239,C007,Gabriel Hernandez,camara,Activo,Desconexion espontanea,06/11/2024,26/11/2024,si,Pendiente,20,1701,Republica Dominicana,52.06,84.97
+D0240,C002,Juan Torres,gps,Activo,Imagen borrosa,24/10/2023,01/05/2024,no,Completada,190,2275,Guatemala,57.33,97.46
+D0241,C010,Sofia Ramos,camara,Inactivo,No conecta bien,16/02/2024,02/04/2024,si,Completada,46,2527,Colombia,53.72,96.75
+D0242,C002,Diego Garcia,gps,En mantenimiento,No reconoce los datos,07/07/2024,19/07/2024,no,Completada,12,1999,Jamaica,74.45,97.96
+D0243,C008,Andrea Cruz,monitor,Inactivo,Desconexion espontanea,17/11/2024,28/12/2024,no,Pendiente,41,1933,San Cristobal y Nieves,67.42,89.83
+D0244,C006,Miguel Ramirez,gps,Inactivo,Imagen borrosa,19/11/2024,31/12/2024,si,Pendiente,42,2482,Uruguay,73.37,94.81
+D0245,C010,Paula Gonzalez,gps,Inactivo,No conecta bien,04/08/2024,12/11/2024,no,Completada,100,2203,Belice,73.59,97.47
+D0246,C010,Francisco Gonzalez,gps,En mantenimiento,No reconoce los datos,19/05/2023,02/11/2023,no,Completada,167,2776,Saint Kitts y Nevis,59.62,80.34
+D0247,C003,Eduardo Martinez,gps,Activo,Desconexion espontanea,03/02/2023,20/11/2024,si,Completada,656,1861,Guyana,75.08,94.85
+D0248,C009,Ana Rodriguez,monitor,En mantenimiento,Imagen borrosa,01/02/2024,28/12/2024,si,Pendiente,331,2150,Jamaica,75.74,83.32
+D0249,C004,Carlos Vargas,camara,Inactivo,No conecta bien,29/05/2023,23/01/2024,no,Completada,239,2614,Guyana,73.66,83.56
+D0250,C009,Gabriel Diaz,gps,Activo,No reconoce los datos,30/04/2024,08/11/2024,no,Pendiente,192,1627,Venezuela,59.6,92.44
+D0251,C003,Carmen Gonzalez,monitor,En mantenimiento,Desconexion espontanea,18/01/2023,25/12/2024,no,Completada,707,1739,Chile,59.74,98.59
+D0252,C005,Eduardo Castillo,gps,Inactivo,Imagen borrosa,14/03/2023,22/11/2023,si,Completada,253,1510,Mexico,71.59,85.8
+D0253,C001,Jorge Castillo,camara,Inactivo,No conecta bien,25/10/2023,13/10/2024,no,Pendiente,354,1614,Bahamas,60.24,85.27
+D0254,C008,Lucia Rodriguez,monitor,Inactivo,No reconoce los datos,04/12/2024,31/12/2024,no,Completada,27,2099,Guyana,50.56,83.95
+D0255,C005,Luis Ramirez,gps,En mantenimiento,Desconexion espontanea,26/03/2023,02/07/2023,no,Completada,98,2961,Antigua y Barbuda,66.74,81.5
+D0256,C004,Paula Garcia,gps,En mantenimiento,Imagen borrosa,25/06/2024,06/10/2024,no,Completada,103,2204,Venezuela,69.3,93.55
+D0257,C009,Lucia Gomez,gps,En mantenimiento,No conecta bien,19/11/2024,22/12/2024,si,Pendiente,33,1974,Saint Kitts y Nevis,51.88,81.23
+D0258,C006,Raul Flores,gps,En mantenimiento,No reconoce los datos,16/04/2024,16/08/2024,no,Completada,122,2413,Santa Lucia,51.08,86.11
+D0259,C008,Elena Gomez,gps,Inactivo,Desconexion espontanea,26/11/2024,29/11/2024,si,Completada,3,1946,Cuba,50.33,95.82
+D0260,C004,Carmen Lopez,camara,Inactivo,Imagen borrosa,03/05/2024,22/07/2024,no,Pendiente,80,2764,Paraguay,67.51,96.9
+D0261,C006,Raul Diaz,camara,Activo,No conecta bien,14/12/2023,24/12/2023,si,Pendiente,10,1992,Paraguay,64.74,90.22
+D0262,C007,Juan Morales,gps,En mantenimiento,No reconoce los datos,04/08/2023,08/10/2023,no,Pendiente,65,1813,Mexico,61.32,96.21
+D0263,C009,Alejandra Martinez,camara,En mantenimiento,Desconexion espontanea,27/09/2024,23/10/2024,no,Completada,26,1918,Bolivia,75.17,96.72
+D0264,C009,Antonio Martinez,camara,En mantenimiento,Imagen borrosa,28/12/2023,21/12/2024,no,Completada,359,1519,Jamaica,51.55,91.7
+D0265,C005,Elena Perez,monitor,Activo,No conecta bien,09/07/2023,24/11/2024,si,Pendiente,504,2782,San Cristobal y Nieves,58.6,84.52
+D0266,C002,Maria Cruz,gps,Activo,No reconoce los datos,09/07/2024,11/10/2024,si,Completada,94,2219,Costa Rica,50.1,95.6
+D0267,C007,Jorge Ramirez,monitor,Inactivo,Desconexion espontanea,29/12/2024,29/12/2024,no,Pendiente,0,2595,Granada,59.76,99.47
+D0268,C010,Luis Sanchez,gps,Inactivo,Imagen borrosa,27/11/2023,28/07/2024,no,Completada,244,2609,Antigua y Barbuda,71.36,86.34
+D0269,C006,Ana Torres,camara,Inactivo,No conecta bien,14/12/2023,31/07/2024,no,Pendiente,230,2881,Argentina,72.66,96.19
+D0270,C009,Jorge Lopez,monitor,Inactivo,No reconoce los datos,16/08/2023,29/01/2024,si,Pendiente,166,2075,Jamaica,62.98,86.92
+D0271,C003,Francisco Ramirez,camara,Inactivo,Desconexion espontanea,18/08/2023,24/09/2024,si,Pendiente,403,2311,Colombia,50.73,82.9
+D0272,C009,Lucia Garcia,gps,Inactivo,Imagen borrosa,02/09/2023,11/04/2024,no,Completada,222,2753,Republica Dominicana,75.95,84.08
+D0273,C002,Raul Gomez,gps,En mantenimiento,No conecta bien,24/11/2023,20/12/2023,no,Pendiente,26,2652,Panama,79.55,85.6
+D0274,C006,Sofia Ramirez,monitor,Activo,No reconoce los datos,29/04/2024,24/08/2024,no,Pendiente,117,2231,Barbados,65.73,91.37
+D0275,C008,Elena Ramos,gps,Inactivo,Desconexion espontanea,04/06/2023,22/11/2024,no,Pendiente,537,1558,Bahamas,69.26,82.48
+D0276,C002,Lucia Martinez,gps,Activo,Imagen borrosa,15/02/2024,21/09/2024,si,Pendiente,219,2681,Santa Lucia,55.31,96.42
+D0277,C008,Fernando Gomez,monitor,Activo,No conecta bien,29/03/2024,09/11/2024,si,Completada,225,1971,Saint Kitts y Nevis,61.43,99.04
+D0278,C006,Carlos Castillo,gps,Activo,No reconoce los datos,01/08/2024,25/08/2024,no,Completada,24,1923,Guatemala,63.8,87.29
+D0279,C009,Alejandra Vargas,gps,Activo,Desconexion espontanea,28/05/2024,24/10/2024,si,Pendiente,149,2552,El Salvador,60.47,89.53
+D0280,C007,Mariana Gonzalez,camara,En mantenimiento,Imagen borrosa,30/07/2023,01/09/2023,no,Pendiente,33,1803,Santa Lucia,51.3,88
+D0281,C005,Antonio Morales,monitor,Activo,No conecta bien,08/06/2023,31/08/2023,si,Completada,84,2961,Ecuador,77.25,80.09
+D0282,C008,Gabriel Sanchez,gps,Inactivo,No reconoce los datos,19/06/2023,26/04/2024,no,Completada,312,1503,Barbados,78.76,86.31
+D0283,C008,Valeria Mendoza,camara,En mantenimiento,Desconexion espontanea,27/03/2024,10/11/2024,no,Completada,228,1850,Saint Lucia,60.7,91.64
+D0284,C002,Elena Perez,camara,En mantenimiento,Imagen borrosa,07/05/2024,08/05/2024,si,Pendiente,1,2184,Saint Kitts y Nevis,72.46,82.5
+D0285,C003,Raul Flores,camara,En mantenimiento,No conecta bien,08/11/2023,18/08/2024,si,Pendiente,284,2148,Chile,58.83,89.25
+D0286,C003,Francisco Garcia,camara,En mantenimiento,No reconoce los datos,26/02/2023,19/05/2023,si,Completada,82,1587,Nicaragua,59.26,92.11
+D0287,C007,Gabriel Perez,monitor,En mantenimiento,Desconexion espontanea,28/08/2023,16/09/2024,si,Completada,385,1732,Bolivia,66.45,93.78
+D0288,C005,Elena Martinez,monitor,Activo,Imagen borrosa,19/06/2024,26/10/2024,si,Pendiente,129,2800,Belice,54.12,95.79
+D0289,C009,Andrea Ortega,gps,En mantenimiento,No conecta bien,14/03/2024,13/11/2024,si,Completada,244,2091,Santa Lucia,75.06,84.28
+D0290,C008,Elena Ramos,camara,Inactivo,No reconoce los datos,02/03/2024,26/07/2024,si,Completada,146,1868,Guyana,72.31,84.64
+D0291,C002,Alejandra Martinez,gps,Activo,Desconexion espontanea,10/03/2023,19/10/2023,si,Pendiente,223,2749,Santa Lucia,52.15,88.98
+D0292,C004,Maria Vargas,monitor,Inactivo,Imagen borrosa,01/07/2024,12/07/2024,no,Pendiente,11,2718,Guatemala,63.97,88.79
+D0293,C010,Gabriel Gomez,gps,En mantenimiento,No conecta bien,18/06/2024,07/08/2024,si,Completada,50,1959,Santa Lucia,77.42,93.01
+D0294,C003,Sofia Ramos,monitor,En mantenimiento,No reconoce los datos,16/07/2024,30/11/2024,no,Completada,137,2804,Nicaragua,58.26,91.64
+D0295,C007,Eduardo Martinez,monitor,Activo,Desconexion espontanea,19/05/2024,23/10/2024,si,Pendiente,157,2516,Dominica,79.92,97.91
+D0296,C008,Isabel Vargas,camara,Activo,Imagen borrosa,06/10/2023,31/10/2023,si,Completada,25,2270,Venezuela,62.18,85.1
+D0297,C007,Diego Sanchez,monitor,Inactivo,No conecta bien,29/05/2024,22/09/2024,no,Pendiente,116,1974,Guatemala,77.28,89.96
+D0298,C001,Valeria Torres,gps,En mantenimiento,No reconoce los datos,28/03/2024,31/03/2024,si,Pendiente,3,1924,Panama,70.57,90.82
+D0299,C008,Paula Mendoza,camara,Activo,Desconexion espontanea,17/02/2024,10/12/2024,si,Pendiente,297,2823,Antigua y Barbuda,58.87,97.05
+D0300,C002,Eduardo Gonzalez,gps,En mantenimiento,Imagen borrosa,21/03/2023,28/06/2024,no,Pendiente,465,2255,San Cristobal y Nieves,50.83,92.56
+D0301,C002,Gabriel Vargas,camara,Activo,No conecta bien,21/08/2024,04/11/2024,no,Completada,75,2882,Panama,63.61,89.67
+D0302,C008,Elena Perez,camara,En mantenimiento,No reconoce los datos,30/12/2024,30/12/2024,no,Completada,0,2404,Santa Lucia,70.53,97.35
+D0303,C007,Diego Martinez,monitor,Activo,Desconexion espontanea,20/12/2023,17/10/2024,no,Completada,302,2992,Argentina,59.09,83.33
+D0304,C003,Miguel Torres,gps,En mantenimiento,Imagen borrosa,26/02/2023,25/10/2023,si,Completada,241,2340,Costa Rica,55.87,90.4
+D0305,C003,Diego Cruz,monitor,En mantenimiento,No conecta bien,11/12/2024,11/12/2024,no,Pendiente,0,2276,Mexico,50.94,88.67
+D0306,C002,Diego Ramirez,monitor,Inactivo,No reconoce los datos,09/03/2023,13/03/2024,no,Pendiente,370,2994,El Salvador,55.75,95.89
+D0307,C009,Jorge Hernandez,gps,En mantenimiento,Desconexion espontanea,17/03/2023,06/07/2024,si,Completada,477,2427,Argentina,61.06,87.01
+D0308,C009,Isabel Sanchez,gps,Activo,Imagen borrosa,30/06/2023,10/09/2024,no,Completada,438,2466,Granada,56.4,86.97
+D0309,C008,Sofia Ramirez,gps,En mantenimiento,No conecta bien,10/06/2023,29/02/2024,si,Pendiente,264,2749,Saint Lucia,72.61,98.75
+D0310,C006,Diego Diaz,camara,Activo,No reconoce los datos,19/10/2023,13/12/2024,no,Pendiente,421,2716,Saint Kitts y Nevis,62.93,81.04
+D0311,C005,Eduardo Torres,camara,Activo,Desconexion espontanea,27/08/2024,20/12/2024,si,Completada,115,2145,Venezuela,64.18,86.28
+D0312,C007,Andrea Cruz,monitor,En mantenimiento,Imagen borrosa,06/10/2023,18/12/2023,no,Completada,73,2646,Cuba,60.04,95.71
+D0313,C004,Diego Torres,gps,Inactivo,No conecta bien,18/01/2023,27/12/2023,no,Pendiente,343,1846,Jamaica,70.52,93.17
+D0314,C007,Isabel Ramirez,camara,Activo,No reconoce los datos,16/04/2023,14/05/2024,no,Completada,394,2328,Bolivia,54.57,93.85
+D0315,C005,Antonio Gonzalez,monitor,Activo,Desconexion espontanea,04/03/2024,19/06/2024,no,Pendiente,107,1740,Guyana,73.74,95.82
+D0316,C003,Maria Torres,gps,En mantenimiento,Imagen borrosa,14/04/2023,17/04/2023,no,Completada,3,1819,Republica Dominicana,58.74,80.89
+D0317,C005,Valeria Sanchez,camara,Activo,No conecta bien,16/06/2024,22/07/2024,no,Completada,36,2979,Antigua y Barbuda,76.14,81.39
+D0318,C003,Jorge Flores,monitor,En mantenimiento,No reconoce los datos,08/03/2023,24/05/2024,si,Pendiente,443,2983,Honduras,64.17,97.64
+D0319,C001,Isabel Diaz,camara,Inactivo,Desconexion espontanea,26/03/2024,07/07/2024,no,Pendiente,103,2554,San Cristobal y Nieves,50.97,97.62
+D0320,C004,Mariana Perez,gps,Inactivo,Imagen borrosa,20/06/2024,09/07/2024,si,Completada,19,2355,Trinidad y Tobago,59.07,96.64
+D0321,C003,Raul Gonzalez,gps,Activo,No conecta bien,19/01/2024,20/10/2024,no,Pendiente,275,2011,Bolivia,58.73,92.72
+D0322,C009,Elena Gomez,gps,Inactivo,No reconoce los datos,22/09/2024,14/12/2024,no,Pendiente,83,2250,Chile,77.58,89.5
+D0323,C004,Fernando Flores,camara,Activo,Desconexion espontanea,19/01/2023,11/05/2023,no,Pendiente,112,2776,Costa Rica,71.57,92.9
+D0324,C006,Antonio Rodriguez,gps,Inactivo,Imagen borrosa,03/02/2024,28/10/2024,no,Pendiente,268,2936,Peru,69.93,86.47
+D0325,C008,Ana Torres,gps,En mantenimiento,No conecta bien,14/07/2023,16/07/2024,no,Pendiente,368,1768,El Salvador,50.89,80.86
+D0326,C009,Alejandra Hernandez,gps,Inactivo,No reconoce los datos,07/04/2023,21/05/2023,no,Pendiente,44,2761,Peru,51.12,82
+D0327,C010,Diego Perez,monitor,Inactivo,Desconexion espontanea,11/08/2023,12/07/2024,si,Completada,336,2983,Nicaragua,65.96,95
+D0328,C006,Luis Mendoza,camara,Inactivo,Imagen borrosa,18/03/2023,20/10/2024,no,Pendiente,582,2019,Panama,67.48,85.32
+D0329,C002,Gabriel Vargas,gps,Inactivo,No conecta bien,30/10/2023,30/12/2023,no,Pendiente,61,2669,Trinidad y Tobago,55.75,82.09
+D0330,C004,Mariana Morales,gps,Inactivo,No reconoce los datos,17/11/2023,21/12/2023,si,Completada,34,2921,Bahamas,73.46,82.81
+D0331,C010,Lucia Ortega,gps,Inactivo,Desconexion espontanea,18/06/2024,23/10/2024,si,Pendiente,127,1560,Belice,56.11,87.66
+D0332,C005,Raul Perez,camara,Activo,Imagen borrosa,29/04/2023,31/08/2024,no,Completada,490,2740,Bolivia,55.33,88.87
+D0333,C002,Isabel Morales,monitor,Activo,No conecta bien,16/08/2024,10/11/2024,no,Pendiente,86,2421,Nicaragua,72.82,93.03
+D0334,C002,Diego Diaz,camara,Activo,No reconoce los datos,01/06/2024,13/09/2024,si,Completada,104,2988,Saint Lucia,50.9,95.1
+D0335,C002,Jorge Ramirez,camara,Activo,Desconexion espontanea,17/07/2024,30/08/2024,no,Completada,44,1575,Venezuela,57.66,90.05
+D0336,C007,Andrea Gonzalez,monitor,Activo,Imagen borrosa,25/06/2024,30/12/2024,si,Pendiente,188,2007,Guatemala,63.81,97.9
+D0337,C010,Maria Hernandez,monitor,Activo,No conecta bien,30/08/2024,01/09/2024,no,Completada,2,2585,Brasil,75.51,98.9
+D0338,C007,Antonio Gonzalez,camara,Activo,No reconoce los datos,06/04/2023,17/06/2024,si,Completada,438,2518,Jamaica,64.79,91.2
+D0339,C008,Alejandra Gonzalez,camara,Inactivo,Desconexion espontanea,26/10/2023,09/07/2024,si,Completada,257,2708,Bahamas,76.2,92.08
+D0340,C004,Elena Garcia,camara,Activo,Imagen borrosa,02/02/2023,15/02/2024,no,Completada,378,1746,Ecuador,70.09,94.34
+D0341,C004,Luis Martinez,gps,En mantenimiento,No conecta bien,27/06/2024,19/10/2024,si,Pendiente,114,2219,Mexico,73.81,81.31
+D0342,C003,Lucia Hernandez,camara,Inactivo,No reconoce los datos,09/06/2023,21/07/2023,si,Completada,42,3000,Chile,61.52,88.9
+D0343,C010,Carlos Gonzalez,monitor,En mantenimiento,Desconexion espontanea,21/10/2024,24/11/2024,si,Pendiente,34,1838,Argentina,61.98,82.36
+D0344,C009,Luis Castillo,gps,Inactivo,Imagen borrosa,16/10/2024,28/12/2024,si,Pendiente,73,2688,Bahamas,76.17,81.9
+D0345,C001,Ana Ortega,monitor,En mantenimiento,No conecta bien,21/10/2023,14/04/2024,si,Pendiente,176,1745,Costa Rica,79.26,92.81
+D0346,C010,Paula Gonzalez,camara,Inactivo,No reconoce los datos,05/06/2024,25/08/2024,si,Pendiente,81,1930,Jamaica,68.99,94.65
+D0347,C009,Andrea Gonzalez,camara,Activo,Desconexion espontanea,28/10/2023,02/11/2024,no,Pendiente,371,2706,Bahamas,61.24,88.11
+D0348,C010,Maria Castillo,camara,En mantenimiento,Imagen borrosa,28/06/2023,31/08/2024,si,Pendiente,430,2869,Santa Lucia,55.97,84.48
+D0349,C003,Diego Flores,camara,Activo,No conecta bien,22/09/2023,30/12/2024,si,Completada,465,1502,Bolivia,69.59,84.32
+D0350,C008,Jorge Mendoza,gps,Activo,No reconoce los datos,09/07/2023,04/04/2024,si,Pendiente,270,1587,Paraguay,67.01,82.76
+D0351,C007,Valeria Cruz,gps,Inactivo,Desconexion espontanea,05/02/2023,09/01/2024,si,Completada,338,2037,Chile,57.15,87.92
+D0352,C003,Raul Flores,monitor,Activo,Imagen borrosa,02/07/2023,19/04/2024,no,Pendiente,292,2955,Paraguay,63.32,92.55
+D0353,C007,Luis Mendoza,monitor,Activo,No conecta bien,15/07/2024,06/09/2024,si,Pendiente,53,2502,Jamaica,53.85,85.21
+D0354,C003,Paula Garcia,camara,Activo,No reconoce los datos,21/04/2024,12/09/2024,si,Completada,144,1761,Argentina,71.5,83.9
+D0355,C005,Maria Castillo,monitor,Activo,Desconexion espontanea,21/04/2024,12/11/2024,no,Completada,205,2275,Argentina,78.89,80.14
+D0356,C007,Maria Gonzalez,monitor,En mantenimiento,Imagen borrosa,31/01/2023,24/12/2023,si,Completada,327,1658,Honduras,75.48,81.52
+D0357,C003,Gabriel Diaz,monitor,Inactivo,No conecta bien,13/07/2023,25/01/2024,no,Completada,196,2759,Antigua y Barbuda,54.39,88.53
+D0358,C009,Fernando Torres,monitor,Inactivo,No reconoce los datos,29/07/2023,18/04/2024,si,Pendiente,264,1654,Santa Lucia,56.31,89.88
+D0359,C008,Carlos Ramirez,monitor,Activo,Desconexion espontanea,04/02/2024,01/11/2024,no,Pendiente,271,2208,Mexico,69.76,80.1
+D0360,C002,Ana Sanchez,gps,Inactivo,Imagen borrosa,22/11/2023,14/06/2024,si,Completada,205,2575,Jamaica,50.43,87.43
+D0361,C010,Alejandra Cruz,camara,Inactivo,No conecta bien,11/05/2024,20/05/2024,no,Completada,9,2170,Honduras,57.99,89.15
+D0362,C002,Elena Torres,gps,Activo,No reconoce los datos,12/01/2023,01/01/2024,si,Pendiente,354,2359,Saint Lucia,79.03,83.36
+D0363,C004,Valeria Perez,gps,Inactivo,Desconexion espontanea,27/08/2023,03/12/2024,si,Pendiente,464,1632,Argentina,79.85,90.05
+D0364,C005,Miguel Cruz,gps,Activo,Imagen borrosa,19/12/2024,31/12/2024,no,Completada,12,2699,Colombia,65.55,97.79
+D0365,C010,Isabel Ramirez,camara,Activo,No conecta bien,19/01/2024,31/10/2024,no,Pendiente,286,1923,Dominica,62.56,97.68
+D0366,C007,Carmen Sanchez,camara,En mantenimiento,No reconoce los datos,14/06/2023,18/03/2024,si,Pendiente,278,2849,Costa Rica,64.89,94.39
+D0367,C001,Carmen Garcia,camara,En mantenimiento,Desconexion espontanea,15/09/2024,24/12/2024,si,Completada,100,2719,Belice,52.18,80.36
+D0368,C005,Gabriel Castillo,gps,Inactivo,Imagen borrosa,16/05/2023,07/12/2024,no,Completada,571,2112,Ecuador,56.1,97.89
+D0369,C006,Juan Rodriguez,gps,Inactivo,No conecta bien,09/01/2024,14/01/2024,si,Pendiente,5,1998,Chile,76.54,98.62
+D0370,C008,Elena Mendoza,camara,Activo,No reconoce los datos,20/09/2024,14/11/2024,no,Completada,55,2292,El Salvador,63.42,87.55
+D0371,C003,Paula Vargas,gps,Activo,Desconexion espontanea,24/07/2023,12/05/2024,si,Pendiente,293,1720,Nicaragua,55.9,84.08
+D0372,C001,Luis Martinez,monitor,Activo,Imagen borrosa,27/06/2023,04/06/2024,si,Pendiente,343,2068,Honduras,55.3,85.62
+D0373,C004,Ana Martinez,gps,En mantenimiento,No conecta bien,23/09/2024,14/12/2024,si,Pendiente,82,2826,Antigua y Barbuda,54.61,80.88
+D0374,C005,Diego Cruz,camara,Activo,No reconoce los datos,28/11/2023,22/01/2024,no,Completada,55,1645,Peru,53.8,93.55
+D0375,C004,Gabriel Sanchez,camara,Activo,Desconexion espontanea,08/12/2024,29/12/2024,si,Completada,21,1536,Barbados,56.38,94.06
+D0376,C003,Andrea Garcia,monitor,Activo,Imagen borrosa,05/10/2024,15/11/2024,si,Completada,41,2489,Trinidad y Tobago,75.96,84.27
+D0377,C007,Jorge Torres,camara,Inactivo,No conecta bien,23/11/2024,26/11/2024,si,Pendiente,3,1906,Republica Dominicana,51.09,80.73
+D0378,C009,Mariana Torres,camara,En mantenimiento,No reconoce los datos,17/10/2023,29/11/2023,si,Completada,43,2853,Granada,79.87,94.75
+D0379,C002,Alejandra Gomez,monitor,En mantenimiento,Desconexion espontanea,14/04/2024,28/05/2024,si,Completada,44,2728,Granada,78.97,83.13
+D0380,C004,Carmen Perez,gps,Activo,Imagen borrosa,29/02/2024,16/10/2024,si,Completada,230,1794,Paraguay,71.06,98.88
+D0381,C008,Diego Morales,monitor,Inactivo,No conecta bien,11/08/2024,14/09/2024,no,Pendiente,34,2397,Mexico,78.79,89.57
+D0382,C004,Maria Torres,gps,Inactivo,No reconoce los datos,31/07/2024,12/09/2024,no,Completada,43,2847,Honduras,77.89,86.39
+D0383,C002,Carlos Mendoza,camara,En mantenimiento,Desconexion espontanea,31/08/2023,12/01/2024,si,Pendiente,134,2191,Granada,76.38,81.5
+D0384,C002,Paula Hernandez,camara,Activo,Imagen borrosa,21/03/2023,24/11/2023,no,Pendiente,248,2294,Brasil,51.93,96.99
+D0385,C002,Fernando Gomez,monitor,En mantenimiento,No conecta bien,22/06/2023,06/11/2024,no,Completada,503,2576,Saint Lucia,78.46,93.48
+D0386,C002,Fernando Sanchez,monitor,Inactivo,No reconoce los datos,25/02/2023,16/06/2023,no,Pendiente,111,2169,Cuba,74.55,88.41
+D0387,C007,Isabel Ramos,gps,Activo,Desconexion espontanea,17/11/2024,18/11/2024,no,Completada,1,2803,Guatemala,52.78,99.98
+D0388,C001,Antonio Martinez,camara,Inactivo,Imagen borrosa,25/12/2023,19/03/2024,no,Completada,85,1566,Dominica,73.07,97.2
+D0389,C003,Sofia Gomez,monitor,En mantenimiento,No conecta bien,12/06/2024,02/08/2024,no,Completada,51,2524,Panama,59.54,91.47
+D0390,C004,Paula Rodriguez,monitor,Inactivo,No reconoce los datos,27/09/2024,08/10/2024,no,Pendiente,11,2912,Panama,55.26,93.72
+D0391,C004,Carmen Rodriguez,camara,Inactivo,Desconexion espontanea,24/08/2023,11/11/2024,si,Completada,445,2712,Brasil,76.49,88.58
+D0392,C003,Carmen Mendoza,monitor,Inactivo,Imagen borrosa,16/05/2023,29/08/2024,no,Pendiente,471,1911,Brasil,73.18,83.55
+D0393,C006,Gabriel Ramirez,monitor,Activo,No conecta bien,24/06/2023,28/03/2024,si,Completada,278,2413,Saint Kitts y Nevis,66.59,99.46
+D0394,C003,Raul Cruz,camara,Activo,No reconoce los datos,30/12/2023,24/05/2024,si,Pendiente,146,2802,Bahamas,72.05,86.87
+D0395,C001,Maria Sanchez,monitor,Inactivo,Desconexion espontanea,19/02/2024,03/06/2024,si,Completada,105,1707,Chile,66.55,83.81
+D0396,C001,Antonio Ramirez,monitor,Activo,Imagen borrosa,08/10/2023,22/08/2024,no,Completada,319,2064,Uruguay,73.61,80.95
+D0397,C001,Antonio Rodriguez,monitor,En mantenimiento,No conecta bien,07/02/2024,28/02/2024,si,Completada,21,2715,Guatemala,65.61,88.8
+D0398,C007,Elena Morales,gps,En mantenimiento,No reconoce los datos,27/08/2023,01/11/2023,no,Pendiente,66,2495,Dominica,60.18,97.49
+D0399,C004,Lucia Flores,monitor,Inactivo,Desconexion espontanea,03/12/2024,16/12/2024,no,Completada,13,2523,Paraguay,75.86,90.94
+D0400,C008,Elena Lopez,monitor,Inactivo,Imagen borrosa,15/09/2023,20/07/2024,no,Pendiente,309,1516,Costa Rica,55.89,96.2
+D0401,C010,Ana Castillo,gps,Activo,No conecta bien,20/01/2023,27/12/2024,si,Completada,707,3000,Brasil,58.37,92.9
+D0402,C005,Valeria Lopez,camara,Activo,No reconoce los datos,24/01/2024,14/11/2024,si,Completada,295,2574,Mexico,61.3,84.23
+D0403,C002,Andrea Gonzalez,camara,Activo,Desconexion espontanea,03/08/2023,25/02/2024,no,Pendiente,206,2925,Cuba,73.63,81.42
+D0404,C008,Isabel Rodriguez,gps,En mantenimiento,Imagen borrosa,21/06/2024,28/08/2024,no,Pendiente,68,2996,Guyana,65.63,94.77
+D0405,C005,Diego Mendoza,gps,Inactivo,No conecta bien,19/09/2023,18/03/2024,si,Pendiente,181,2418,Surinam,69.78,82.37
+D0406,C003,Ana Flores,gps,En mantenimiento,No reconoce los datos,03/07/2023,10/09/2024,no,Completada,435,1872,Belice,68.96,85.67
+D0407,C001,Lucia Perez,camara,Inactivo,Desconexion espontanea,30/03/2023,24/04/2024,no,Pendiente,391,2421,El Salvador,60.98,93.43
+D0408,C009,Valeria Sanchez,gps,En mantenimiento,Imagen borrosa,15/01/2024,03/03/2024,no,Completada,48,2197,Chile,59.4,98.74
+D0409,C008,Carlos Gonzalez,gps,En mantenimiento,No conecta bien,05/07/2024,20/11/2024,si,Pendiente,138,2252,Chile,67.18,99.26
+D0410,C003,Maria Castillo,monitor,Inactivo,No reconoce los datos,28/11/2024,16/12/2024,si,Completada,18,2999,Uruguay,51.3,84.98
+D0411,C009,Miguel Perez,camara,En mantenimiento,Desconexion espontanea,21/01/2024,23/02/2024,si,Completada,33,1555,Trinidad y Tobago,55.03,89.21
+D0412,C002,Isabel Castillo,gps,Inactivo,Imagen borrosa,29/11/2024,30/12/2024,si,Pendiente,31,2526,Ecuador,68.05,87.19
+D0413,C002,Miguel Perez,monitor,En mantenimiento,No conecta bien,27/12/2023,01/03/2024,si,Completada,65,1935,Bolivia,65.5,86.61
+D0414,C001,Diego Rodriguez,camara,Inactivo,No reconoce los datos,17/08/2024,24/09/2024,si,Completada,38,1573,Santa Lucia,61.34,92.26
+D0415,C004,Carlos Ramirez,gps,Inactivo,Desconexion espontanea,18/12/2024,29/12/2024,no,Completada,11,1528,Colombia,56.18,85.06
+D0416,C003,Francisco Perez,camara,Inactivo,Imagen borrosa,10/11/2024,11/11/2024,si,Pendiente,1,2652,Guatemala,74.11,92.01
+D0417,C004,Alejandra Torres,gps,En mantenimiento,No conecta bien,23/12/2023,27/07/2024,no,Pendiente,217,1895,Venezuela,58.02,83.56
+D0418,C008,Raul Torres,monitor,En mantenimiento,No reconoce los datos,18/10/2023,25/12/2024,si,Pendiente,434,2344,El Salvador,50.44,81.78
+D0419,C010,Miguel Vargas,camara,Activo,Desconexion espontanea,23/01/2023,16/07/2023,si,Pendiente,174,2608,Dominica,62.53,82.99
+D0420,C009,Mariana Ortega,camara,En mantenimiento,Imagen borrosa,29/08/2024,13/12/2024,si,Pendiente,106,2257,Cuba,60.12,84.25
+D0421,C007,Juan Gonzalez,monitor,En mantenimiento,No conecta bien,11/09/2023,07/10/2024,no,Pendiente,392,2178,Trinidad y Tobago,54.3,82.28
+D0422,C004,Jorge Ramos,gps,En mantenimiento,No reconoce los datos,19/12/2023,09/10/2024,si,Completada,295,2907,Peru,64.55,96.23
+D0423,C009,Andrea Martinez,gps,En mantenimiento,Desconexion espontanea,24/03/2024,28/09/2024,no,Completada,188,2605,Cuba,54.69,83.55
+D0424,C009,Paula Martinez,monitor,Activo,Imagen borrosa,18/07/2023,18/04/2024,si,Completada,275,2044,Uruguay,66.73,94.08
+D0425,C001,Isabel Cruz,gps,Activo,No conecta bien,05/10/2024,23/12/2024,si,Completada,79,2321,Antigua y Barbuda,76.28,84.39
+D0426,C005,Andrea Ortega,monitor,Activo,No reconoce los datos,09/07/2024,17/12/2024,si,Completada,161,2944,Dominica,58.55,96.96
+D0427,C009,Carlos Ramos,camara,En mantenimiento,Desconexion espontanea,15/07/2024,25/09/2024,no,Pendiente,72,1522,Bolivia,55.51,80.33
+D0428,C009,Elena Gomez,camara,En mantenimiento,Imagen borrosa,20/05/2023,08/08/2023,no,Completada,80,1671,Saint Lucia,61.98,88.2
+D0429,C010,Diego Mendoza,monitor,En mantenimiento,No conecta bien,04/10/2023,15/10/2023,no,Pendiente,11,2985,Paraguay,50.26,81.27
+D0430,C002,Diego Torres,monitor,En mantenimiento,No reconoce los datos,18/01/2024,27/04/2024,no,Pendiente,100,1510,Bahamas,61.47,86.83
+D0431,C003,Paula Torres,monitor,Activo,Desconexion espontanea,01/03/2024,21/12/2024,si,Pendiente,295,1715,Saint Lucia,50.93,88.06
+D0432,C010,Eduardo Torres,gps,En mantenimiento,Imagen borrosa,11/06/2024,28/07/2024,si,Pendiente,47,1601,Paraguay,63.88,87
+D0433,C003,Luis Castillo,camara,En mantenimiento,No conecta bien,07/02/2023,28/03/2023,si,Pendiente,49,1920,Uruguay,54.83,97.09
+D0434,C004,Gabriel Cruz,camara,Inactivo,No reconoce los datos,12/12/2023,08/06/2024,no,Completada,179,2149,Bahamas,60.27,81.05
+D0435,C002,Lucia Ortega,gps,Activo,Desconexion espontanea,23/08/2024,04/11/2024,no,Completada,73,1840,Republica Dominicana,55.47,86.89
+D0436,C006,Mariana Diaz,monitor,Inactivo,Imagen borrosa,20/06/2023,07/09/2023,no,Completada,79,1998,Guyana,74.66,94.22
+D0437,C008,Francisco Diaz,monitor,En mantenimiento,No conecta bien,28/01/2024,21/08/2024,no,Pendiente,206,1728,Surinam,50.25,94.1
+D0438,C002,Raul Mendoza,monitor,En mantenimiento,No reconoce los datos,15/04/2024,21/11/2024,si,Pendiente,220,2007,Saint Vincent y las Granadinas,57.8,94.1
+D0439,C002,Diego Diaz,camara,Inactivo,Desconexion espontanea,24/10/2023,25/03/2024,no,Pendiente,153,2608,Chile,58.98,83.09
+D0440,C005,Jorge Perez,gps,En mantenimiento,Imagen borrosa,15/03/2024,25/07/2024,si,Pendiente,132,2563,Antigua y Barbuda,70.77,86.64
+D0441,C007,Maria Ramirez,monitor,Activo,No conecta bien,21/03/2024,10/07/2024,si,Completada,111,1760,Argentina,74.63,86.04
+D0442,C009,Mariana Hernandez,gps,En mantenimiento,No reconoce los datos,23/09/2023,29/07/2024,no,Completada,310,1786,Costa Rica,69.22,89.09
+D0443,C007,Eduardo Gomez,camara,Activo,Desconexion espontanea,13/04/2024,24/09/2024,si,Pendiente,164,1715,Panama,76.56,87.02
+D0444,C003,Fernando Garcia,gps,En mantenimiento,Imagen borrosa,27/07/2024,20/09/2024,no,Pendiente,55,2062,Barbados,75.56,95.83
+D0445,C010,Elena Martinez,gps,En mantenimiento,No conecta bien,17/09/2024,10/12/2024,si,Pendiente,84,1840,Santa Lucia,60.02,83.93
+D0446,C003,Mariana Gomez,monitor,En mantenimiento,No reconoce los datos,23/11/2023,29/03/2024,si,Completada,127,1587,Jamaica,72.27,87.34
+D0447,C009,Luis Perez,camara,En mantenimiento,Desconexion espontanea,14/07/2024,02/09/2024,si,Pendiente,50,1564,Mexico,61.5,80.71
+D0448,C006,Mariana Perez,gps,En mantenimiento,Imagen borrosa,12/04/2023,26/10/2023,si,Completada,197,1620,Dominica,71.12,93.25
+D0449,C004,Elena Sanchez,gps,Inactivo,No conecta bien,07/02/2024,31/03/2024,no,Pendiente,53,1960,Santa Lucia,75.03,86.51
+D0450,C007,Maria Martinez,camara,Inactivo,No reconoce los datos,26/06/2024,08/09/2024,no,Pendiente,74,2619,Barbados,66.37,92.27
+D0451,C006,Miguel Mendoza,gps,Inactivo,Desconexion espontanea,31/01/2023,07/08/2023,si,Completada,188,2308,Brasil,64.3,86.13
+D0452,C003,Carlos Ortega,camara,Inactivo,Imagen borrosa,18/02/2024,17/09/2024,no,Completada,212,2074,Santa Lucia,55.47,90.64
+D0453,C010,Paula Morales,gps,En mantenimiento,No conecta bien,26/08/2023,31/10/2024,no,Pendiente,432,2303,Colombia,53.01,80.65
+D0454,C007,Isabel Rodriguez,camara,En mantenimiento,No reconoce los datos,05/07/2024,13/12/2024,si,Completada,161,2752,Santa Lucia,52.74,91.8
+D0455,C001,Valeria Morales,monitor,En mantenimiento,Desconexion espontanea,14/11/2024,19/11/2024,no,Pendiente,5,2166,Saint Vincent y las Granadinas,53.17,99.47
+D0456,C010,Andrea Diaz,camara,Activo,Imagen borrosa,22/08/2024,09/11/2024,si,Pendiente,79,2329,Cuba,54.39,95.81
+D0457,C002,Fernando Ortega,camara,Activo,No conecta bien,24/04/2024,07/11/2024,no,Completada,197,2949,Bahamas,53.18,97.07
+D0458,C001,Gabriel Ramos,monitor,En mantenimiento,No reconoce los datos,21/12/2024,27/12/2024,si,Completada,6,2307,Panama,68.94,84.57
+D0459,C007,Francisco Cruz,gps,En mantenimiento,Desconexion espontanea,30/08/2024,20/10/2024,no,Pendiente,51,2868,Trinidad y Tobago,58.83,94.96
+D0460,C009,Fernando Martinez,gps,Inactivo,Imagen borrosa,28/05/2024,10/11/2024,no,Pendiente,166,2636,Jamaica,71.49,85.92
+D0461,C002,Alejandra Ortega,gps,Inactivo,No conecta bien,01/06/2024,27/11/2024,si,Completada,179,2732,Ecuador,63.71,97.32
+D0462,C002,Eduardo Sanchez,camara,Inactivo,No reconoce los datos,15/02/2023,07/05/2023,si,Completada,81,2116,Bahamas,64.19,93.68
+D0463,C007,Alejandra Castillo,camara,Activo,Desconexion espontanea,16/07/2023,09/09/2023,si,Completada,55,2198,Granada,58.81,85.86
+D0464,C001,Jorge Mendoza,monitor,Activo,Imagen borrosa,09/07/2024,13/12/2024,no,Pendiente,157,2834,Colombia,52.53,87.1
+D0465,C002,Raul Gomez,gps,En mantenimiento,No conecta bien,19/10/2023,11/03/2024,si,Completada,144,2873,Antigua y Barbuda,74.59,92.27
+D0466,C010,Gabriel Diaz,camara,En mantenimiento,No reconoce los datos,28/05/2023,01/08/2023,no,Pendiente,65,2636,Antigua y Barbuda,56.42,86.21
+D0467,C010,Raul Vargas,gps,Activo,Desconexion espontanea,18/03/2023,28/04/2024,no,Pendiente,407,2447,Argentina,73.02,90.54
+D0468,C009,Diego Perez,camara,Inactivo,Imagen borrosa,10/06/2024,29/11/2024,si,Completada,172,2429,Peru,66.23,97.76
+D0469,C009,Ana Gonzalez,monitor,Activo,No conecta bien,21/11/2023,08/08/2024,si,Pendiente,261,2827,Dominica,61.54,94.51
+D0470,C009,Diego Diaz,monitor,Activo,No reconoce los datos,27/12/2024,30/12/2024,si,Pendiente,3,1995,Uruguay,78.9,92.82
+D0471,C006,Carlos Ramos,monitor,En mantenimiento,Desconexion espontanea,06/05/2023,01/10/2023,no,Completada,148,2435,Uruguay,67.62,95.35
+D0472,C002,Mariana Garcia,gps,En mantenimiento,Imagen borrosa,24/06/2023,19/07/2023,si,Pendiente,25,1518,Bolivia,59.83,86.01
+D0473,C010,Miguel Ortega,camara,En mantenimiento,No conecta bien,21/03/2023,18/03/2024,si,Completada,363,2898,Trinidad y Tobago,79.29,95.63
+D0474,C007,Raul Hernandez,camara,Inactivo,No reconoce los datos,02/05/2023,15/04/2024,si,Completada,349,1773,Colombia,51.63,82.49
+D0475,C007,Maria Perez,monitor,Inactivo,Desconexion espontanea,18/11/2023,17/09/2024,no,Pendiente,304,2434,Republica Dominicana,76.17,92.25
+D0476,C006,Isabel Castillo,gps,Activo,Imagen borrosa,23/04/2023,08/10/2023,si,Pendiente,168,2089,Uruguay,58.87,80.49
+D0477,C009,Valeria Ramos,monitor,En mantenimiento,No conecta bien,07/10/2024,01/12/2024,si,Pendiente,55,2540,Brasil,58.87,80.95
+D0478,C003,Ana Ramos,camara,Inactivo,No reconoce los datos,25/01/2024,29/06/2024,no,Pendiente,156,1669,Honduras,59.4,95.27
+D0479,C010,Luis Gomez,gps,Inactivo,Desconexion espontanea,11/09/2024,19/09/2024,no,Pendiente,8,1656,Ecuador,63,98.34
+D0480,C003,Diego Martinez,camara,Activo,Imagen borrosa,25/02/2023,26/07/2024,si,Completada,517,1671,Venezuela,63.56,94.79
+D0481,C010,Jorge Flores,monitor,En mantenimiento,No conecta bien,14/04/2024,17/10/2024,si,Completada,186,2201,Trinidad y Tobago,79.59,84.44
+D0482,C004,Elena Gonzalez,gps,Activo,No reconoce los datos,24/04/2023,18/12/2024,no,Pendiente,604,1814,Barbados,61.83,87.55
+D0483,C001,Maria Ramos,camara,En mantenimiento,Desconexion espontanea,08/10/2023,05/02/2024,no,Pendiente,120,1636,Barbados,71.07,94.03
+D0484,C010,Jorge Gomez,gps,Inactivo,Imagen borrosa,21/06/2024,08/10/2024,no,Pendiente,109,2898,Trinidad y Tobago,52.53,98.68
+D0485,C009,Valeria Mendoza,gps,Inactivo,No conecta bien,28/07/2023,19/08/2024,si,Pendiente,388,1772,Nicaragua,72.75,92.89
+D0486,C008,Antonio Mendoza,monitor,Inactivo,No reconoce los datos,11/07/2024,26/10/2024,no,Completada,107,2669,Bolivia,53.94,84.61
+D0487,C008,Andrea Gomez,monitor,Activo,Desconexion espontanea,23/11/2023,23/02/2024,si,Completada,92,1563,Mexico,60.46,84.93
+D0488,C006,Andrea Castillo,gps,Activo,Imagen borrosa,15/06/2023,31/08/2023,si,Completada,77,2120,Barbados,53.54,89.69
+D0489,C006,Alejandra Lopez,monitor,Activo,No conecta bien,23/03/2023,23/01/2024,si,Pendiente,306,2185,Paraguay,71.41,84.16
+D0490,C008,Lucia Gomez,camara,En mantenimiento,No reconoce los datos,16/06/2023,14/09/2023,no,Completada,90,2044,Bolivia,54.85,90.77
+D0491,C004,Diego Torres,gps,Activo,Desconexion espontanea,11/01/2024,26/09/2024,si,Completada,259,1542,Chile,53.05,82.95
+D0492,C008,Andrea Castillo,camara,Inactivo,Imagen borrosa,21/03/2024,27/09/2024,no,Pendiente,190,1868,Saint Kitts y Nevis,59.55,80.48
+D0493,C007,Raul Garcia,camara,Activo,No conecta bien,03/03/2023,09/09/2023,si,Completada,190,1966,Honduras,74.66,84.95
+D0494,C003,Ana Ramirez,gps,En mantenimiento,No reconoce los datos,17/03/2023,13/09/2023,si,Pendiente,180,2865,El Salvador,65.67,99.05
+D0495,C010,Ana Perez,monitor,Inactivo,Desconexion espontanea,11/05/2023,27/12/2023,no,Pendiente,230,2555,Jamaica,79.84,91.01
+D0496,C005,Ana Garcia,camara,Inactivo,Imagen borrosa,27/02/2023,03/11/2023,no,Completada,249,2969,Saint Lucia,56.45,87.74
+D0497,C007,Paula Diaz,monitor,Activo,No conecta bien,23/01/2024,15/07/2024,no,Completada,174,1508,Costa Rica,79.22,99.56
+D0498,C004,Andrea Gonzalez,camara,Inactivo,No reconoce los datos,04/07/2023,08/08/2024,si,Pendiente,401,2752,El Salvador,79.6,83.9
+D0499,C007,Eduardo Flores,monitor,En mantenimiento,Desconexion espontanea,08/03/2023,24/06/2023,si,Pendiente,108,1915,Belice,76.93,98.74
+D0500,C007,Paula Cruz,camara,Activo,Imagen borrosa,02/07/2024,02/10/2024,si,Pendiente,92,1680,Venezuela,69.96,89.77
+D0501,C005,Jorge Lopez,camara,En mantenimiento,No conecta bien,22/04/2024,16/10/2024,no,Pendiente,177,1540,Belice,56.97,99.65
+D0502,C010,Elena Morales,gps,En mantenimiento,No reconoce los datos,17/09/2024,16/11/2024,no,Completada,60,1776,Panama,54.66,91.46
+D0503,C008,Maria Cruz,camara,En mantenimiento,Desconexion espontanea,24/12/2024,30/12/2024,no,Pendiente,6,1752,El Salvador,59.18,85.35
+D0504,C007,Carlos Lopez,monitor,Inactivo,Imagen borrosa,19/08/2024,28/09/2024,si,Pendiente,40,2962,Barbados,76.11,83.77
+D0505,C006,Eduardo Cruz,monitor,Inactivo,No conecta bien,20/08/2023,13/06/2024,no,Completada,298,2381,Republica Dominicana,76.01,96.11
+D0506,C010,Ana Castillo,monitor,Inactivo,No reconoce los datos,25/06/2024,07/07/2024,no,Completada,12,2839,Brasil,76.21,87.16
+D0507,C002,Eduardo Morales,monitor,Inactivo,Desconexion espontanea,23/04/2024,18/09/2024,si,Completada,148,2793,Argentina,53.24,83.44
+D0508,C001,Ana Lopez,camara,Activo,Imagen borrosa,28/01/2024,31/10/2024,no,Pendiente,277,1759,Argentina,66.83,88.27
+D0509,C004,Jorge Hernandez,gps,Inactivo,No conecta bien,01/10/2024,11/10/2024,si,Pendiente,10,2700,Barbados,56.25,83.98
+D0510,C001,Paula Sanchez,gps,Inactivo,No reconoce los datos,21/03/2024,03/11/2024,no,Pendiente,227,2487,Santa Lucia,73.35,98.55
+D0511,C010,Antonio Garcia,gps,En mantenimiento,Desconexion espontanea,09/10/2023,05/11/2023,no,Completada,27,1956,Ecuador,50.59,86.36
+D0512,C009,Antonio Garcia,monitor,Inactivo,Imagen borrosa,14/12/2024,15/12/2024,no,Pendiente,1,2998,Nicaragua,74.96,86.46
+D0513,C003,Ana Lopez,gps,Inactivo,No conecta bien,28/11/2024,30/12/2024,no,Completada,32,1654,El Salvador,65.41,85.1
+D0514,C007,Diego Perez,gps,Activo,No reconoce los datos,02/03/2023,22/08/2023,si,Pendiente,173,2992,Brasil,64.28,91.74
+D0515,C003,Paula Perez,camara,Activo,Desconexion espontanea,28/08/2024,13/11/2024,si,Pendiente,77,2701,Guatemala,75.51,99.42
+D0516,C005,Lucia Cruz,camara,Inactivo,Imagen borrosa,23/02/2024,30/07/2024,si,Pendiente,158,1887,Peru,66.48,98.78
+D0517,C008,Alejandra Ramirez,monitor,Inactivo,No conecta bien,01/09/2023,13/09/2023,no,Pendiente,12,2834,Saint Lucia,65.26,81.92
+D0518,C001,Miguel Torres,camara,Activo,No reconoce los datos,16/04/2023,03/07/2024,no,Pendiente,444,2031,Republica Dominicana,77.76,82.3
+D0519,C004,Fernando Garcia,monitor,Activo,Desconexion espontanea,24/05/2024,12/11/2024,si,Pendiente,172,2605,Cuba,78,91.75
+D0520,C001,Alejandra Sanchez,camara,Activo,Imagen borrosa,09/09/2024,12/10/2024,no,Completada,33,1536,Venezuela,77.38,93.04
+D0521,C005,Eduardo Morales,monitor,Activo,No conecta bien,21/09/2024,20/10/2024,si,Pendiente,29,1959,Guyana,58.33,91.15
+D0522,C008,Fernando Ortega,camara,En mantenimiento,No reconoce los datos,20/11/2024,19/12/2024,si,Completada,29,1975,Trinidad y Tobago,54.99,95.72
+D0523,C009,Miguel Lopez,camara,Inactivo,Desconexion espontanea,24/07/2023,11/12/2023,si,Completada,140,1793,Cuba,69.47,83.55
+D0524,C001,Jorge Gonzalez,monitor,Activo,Imagen borrosa,12/08/2024,08/11/2024,no,Completada,88,2694,Bahamas,79.41,90.28
+D0525,C007,Isabel Hernandez,monitor,Activo,No conecta bien,23/03/2024,11/05/2024,si,Completada,49,2309,Trinidad y Tobago,77.71,83.67
+D0526,C003,Fernando Ortega,camara,En mantenimiento,No reconoce los datos,18/04/2023,04/06/2024,si,Pendiente,413,2357,Saint Kitts y Nevis,63.84,97.95
+D0527,C003,Jorge Garcia,camara,Activo,Desconexion espontanea,13/01/2023,01/11/2023,si,Pendiente,292,2013,Panama,72.26,81.88
+D0528,C008,Eduardo Ortega,monitor,En mantenimiento,Imagen borrosa,26/02/2024,30/11/2024,no,Pendiente,278,1551,Jamaica,64.09,98.95
+D0529,C009,Francisco Gomez,camara,En mantenimiento,No conecta bien,11/10/2023,26/04/2024,no,Completada,198,1987,Costa Rica,70.3,93.92
+D0530,C002,Maria Gonzalez,gps,Inactivo,No reconoce los datos,06/08/2024,13/09/2024,no,Pendiente,38,1885,Saint Kitts y Nevis,54.82,86.9
+D0531,C003,Miguel Castillo,camara,Inactivo,Desconexion espontanea,07/12/2024,30/12/2024,si,Pendiente,23,2570,Bahamas,64.36,97
+D0532,C009,Juan Hernandez,gps,Activo,Imagen borrosa,01/12/2024,01/12/2024,si,Completada,0,2567,Barbados,59.35,92.31
+D0533,C002,Valeria Ramos,gps,Activo,No conecta bien,19/07/2024,17/08/2024,no,Completada,29,2208,Republica Dominicana,62.64,88.48
+D0534,C001,Isabel Ramos,camara,Inactivo,No reconoce los datos,28/05/2024,23/10/2024,no,Completada,148,1743,Mexico,69.81,90.56
+D0535,C010,Juan Cruz,gps,Activo,Desconexion espontanea,05/03/2023,16/01/2024,si,Completada,317,1627,Honduras,74.55,92.36
+D0536,C006,Eduardo Martinez,monitor,Inactivo,Imagen borrosa,11/10/2024,10/11/2024,si,Completada,30,2715,Panama,76.99,85.19
+D0537,C009,Andrea Perez,monitor,En mantenimiento,No conecta bien,07/01/2024,15/08/2024,si,Pendiente,221,1675,Santa Lucia,52.94,80
+D0538,C009,Fernando Diaz,camara,En mantenimiento,No reconoce los datos,23/01/2023,18/05/2023,si,Pendiente,115,1761,Bahamas,72.55,84.46
+D0539,C003,Elena Sanchez,gps,En mantenimiento,Desconexion espontanea,24/12/2023,24/07/2024,si,Completada,213,2009,Guatemala,52.27,89.9
+D0540,C006,Valeria Garcia,camara,Inactivo,Imagen borrosa,06/11/2024,28/11/2024,no,Completada,22,1562,Barbados,61.7,81.66
+D0541,C009,Raul Morales,gps,Inactivo,No conecta bien,18/01/2024,24/10/2024,si,Pendiente,280,2406,Antigua y Barbuda,58.56,96.14
+D0542,C005,Juan Lopez,camara,En mantenimiento,No reconoce los datos,22/10/2024,24/10/2024,si,Pendiente,2,1799,Dominica,53.79,81.17
+D0543,C006,Luis Diaz,gps,Inactivo,Desconexion espontanea,31/01/2023,03/03/2023,si,Pendiente,31,2584,Peru,79.46,84.36
+D0544,C006,Alejandra Sanchez,camara,Inactivo,Imagen borrosa,15/08/2023,26/06/2024,no,Pendiente,316,1691,Honduras,75.31,95.63
+D0545,C005,Gabriel Sanchez,gps,Inactivo,No conecta bien,21/10/2024,27/10/2024,si,Completada,6,2032,Granada,72.09,96.38
+D0546,C010,Carlos Vargas,camara,En mantenimiento,No reconoce los datos,26/04/2024,20/12/2024,si,Pendiente,238,1968,Jamaica,77.88,95.46
+D0547,C006,Francisco Castillo,monitor,Inactivo,Desconexion espontanea,19/02/2024,03/07/2024,no,Completada,135,2841,Colombia,57.24,81.53
+D0548,C001,Antonio Sanchez,camara,Activo,Imagen borrosa,28/11/2024,12/12/2024,si,Completada,14,2583,Uruguay,72.78,98.97
+D0549,C007,Antonio Garcia,camara,En mantenimiento,No conecta bien,23/07/2024,19/10/2024,no,Pendiente,88,2612,Belice,77.41,80.69
+D0550,C007,Lucia Morales,monitor,Inactivo,No reconoce los datos,18/07/2023,18/04/2024,si,Pendiente,275,2574,Dominica,52.45,83.74
+D0551,C009,Carmen Diaz,camara,Activo,Desconexion espontanea,05/02/2023,08/10/2023,no,Pendiente,245,2506,Bahamas,62.71,94.39
+D0552,C004,Fernando Flores,camara,Inactivo,Imagen borrosa,25/04/2023,27/11/2023,si,Completada,216,2452,Honduras,64.33,96.19
+D0553,C006,Francisco Cruz,monitor,Inactivo,No conecta bien,07/08/2024,04/10/2024,no,Completada,58,1730,Honduras,55.41,83.89
+D0554,C008,Luis Sanchez,monitor,Inactivo,No reconoce los datos,07/02/2024,24/10/2024,no,Completada,260,2180,Bolivia,57.06,92.62
+D0555,C002,Gabriel Ramos,monitor,Activo,Desconexion espontanea,02/12/2023,06/06/2024,si,Completada,187,2737,Antigua y Barbuda,70.83,87.21
+D0556,C005,Isabel Lopez,camara,Activo,Imagen borrosa,17/03/2023,27/08/2024,si,Pendiente,529,2175,Cuba,62.61,98.24
+D0557,C009,Diego Torres,camara,En mantenimiento,No conecta bien,13/05/2023,04/07/2024,no,Completada,418,1645,Colombia,64.88,91.24
+D0558,C005,Alejandra Torres,monitor,En mantenimiento,No reconoce los datos,10/12/2023,22/08/2024,si,Pendiente,256,2223,Brasil,66.48,83.84
+D0559,C002,Fernando Morales,monitor,En mantenimiento,Desconexion espontanea,21/09/2024,26/11/2024,no,Pendiente,66,2756,Brasil,65.53,83.84
+D0560,C010,Gabriel Hernandez,gps,Activo,Imagen borrosa,07/09/2024,25/09/2024,no,Pendiente,18,2950,Antigua y Barbuda,69.81,97.58
+D0561,C009,Sofia Cruz,monitor,Inactivo,No conecta bien,08/06/2023,19/02/2024,no,Pendiente,256,2535,Colombia,70.04,82.47
+D0562,C005,Luis Flores,gps,Inactivo,No reconoce los datos,01/08/2024,25/12/2024,si,Completada,146,2215,Cuba,61.74,81.7
+D0563,C001,Sofia Gomez,monitor,Activo,Desconexion espontanea,11/02/2023,28/07/2023,no,Pendiente,167,1646,Trinidad y Tobago,57.41,95.31
+D0564,C010,Fernando Gomez,camara,Activo,Imagen borrosa,30/07/2023,04/11/2023,no,Pendiente,97,2100,Peru,52.58,87.41
+D0565,C004,Antonio Gonzalez,gps,En mantenimiento,No conecta bien,15/03/2023,27/10/2023,no,Completada,226,1663,Argentina,55.96,87.36
+D0566,C010,Fernando Ramos,camara,Activo,No reconoce los datos,16/12/2023,17/11/2024,no,Completada,337,2502,Saint Vincent y las Granadinas,60.99,83.73
+D0567,C001,Valeria Flores,gps,Inactivo,Desconexion espontanea,13/06/2023,31/08/2024,si,Pendiente,445,2461,Belice,70.6,86.93
+D0568,C004,Paula Garcia,camara,Activo,Imagen borrosa,17/12/2024,30/12/2024,no,Pendiente,13,2583,Panama,72.7,98.66
+D0569,C001,Juan Torres,gps,En mantenimiento,No conecta bien,26/01/2023,30/12/2024,si,Completada,704,1762,Brasil,70.73,99.33
+D0570,C007,Alejandra Torres,monitor,Activo,No reconoce los datos,30/10/2023,30/08/2024,si,Completada,305,2118,Trinidad y Tobago,50.34,93.36
+D0571,C005,Mariana Hernandez,monitor,En mantenimiento,Desconexion espontanea,29/12/2024,30/12/2024,no,Pendiente,1,2810,Costa Rica,74.01,88.39
+D0572,C010,Valeria Morales,camara,Inactivo,Imagen borrosa,05/04/2024,31/12/2024,no,Completada,270,1687,Mexico,57.97,85.9
+D0573,C006,Carmen Perez,gps,En mantenimiento,No conecta bien,17/02/2024,25/02/2024,no,Completada,8,2690,Barbados,64.36,83.61
+D0574,C002,Juan Martinez,gps,Activo,No reconoce los datos,07/10/2023,27/08/2024,no,Pendiente,325,2782,Cuba,58.68,97.7
+D0575,C004,Paula Torres,gps,Inactivo,Desconexion espontanea,02/12/2024,17/12/2024,no,Pendiente,15,2148,Chile,60.67,89.93
+D0576,C008,Carmen Gonzalez,gps,En mantenimiento,Imagen borrosa,23/10/2024,26/10/2024,no,Pendiente,3,2769,Ecuador,74.69,96.6
+D0577,C007,Jorge Castillo,camara,Inactivo,No conecta bien,25/12/2024,25/12/2024,si,Pendiente,0,1586,Chile,58.9,99.42
+D0578,C003,Eduardo Cruz,monitor,Activo,No reconoce los datos,05/12/2023,04/01/2024,no,Completada,30,2089,Granada,74.26,94.56
+D0579,C007,Luis Vargas,gps,Activo,Desconexion espontanea,04/02/2023,29/01/2024,si,Pendiente,359,1961,Uruguay,62.98,90.56
+D0580,C001,Mariana Cruz,gps,Inactivo,Imagen borrosa,20/01/2024,30/09/2024,no,Pendiente,254,1789,Brasil,53.59,92.79
+D0581,C005,Jorge Gomez,monitor,Inactivo,No conecta bien,12/10/2023,01/09/2024,si,Completada,325,2998,Panama,78.69,99.84
+D0582,C008,Alejandra Martinez,gps,Inactivo,No reconoce los datos,11/09/2023,03/08/2024,no,Completada,327,2882,Saint Kitts y Nevis,63.26,97.79
+D0583,C001,Gabriel Torres,gps,Activo,Desconexion espontanea,06/03/2024,05/06/2024,si,Pendiente,91,1925,Surinam,63.3,96.12
+D0584,C010,Luis Flores,camara,Inactivo,Imagen borrosa,21/10/2023,20/11/2024,si,Pendiente,396,2642,Costa Rica,71.25,83.99
+D0585,C005,Elena Ramos,camara,En mantenimiento,No conecta bien,22/07/2023,28/01/2024,si,Pendiente,190,2494,Surinam,73,87.74
+D0586,C002,Sofia Sanchez,monitor,Inactivo,No reconoce los datos,03/06/2024,27/06/2024,si,Completada,24,2995,Saint Vincent y las Granadinas,64.95,86.81
+D0587,C005,Ana Gonzalez,monitor,Inactivo,Desconexion espontanea,07/06/2023,30/11/2023,no,Pendiente,176,2067,Honduras,70.02,88.93
+D0588,C008,Elena Torres,camara,Inactivo,Imagen borrosa,13/05/2023,24/08/2024,no,Completada,469,2849,Peru,65.63,88.16
+D0589,C003,Juan Vargas,camara,Inactivo,No conecta bien,03/09/2024,29/10/2024,no,Completada,56,2979,Trinidad y Tobago,57.65,94.48
+D0590,C001,Carlos Hernandez,camara,Inactivo,No reconoce los datos,12/03/2024,25/11/2024,si,Pendiente,258,2071,Republica Dominicana,56.27,84.12
+D0591,C009,Alejandra Cruz,gps,En mantenimiento,Desconexion espontanea,26/01/2024,24/09/2024,no,Completada,242,2030,Uruguay,65.73,91.03
+D0592,C005,Isabel Garcia,monitor,Inactivo,Imagen borrosa,22/01/2024,08/02/2024,no,Pendiente,17,2464,Jamaica,67.65,96.46
+D0593,C003,Mariana Gonzalez,camara,Inactivo,No conecta bien,12/03/2023,14/11/2023,no,Pendiente,247,1646,Uruguay,62.71,86.08
+D0594,C008,Mariana Gonzalez,gps,Inactivo,No reconoce los datos,09/11/2024,19/12/2024,no,Completada,40,2799,Honduras,50.48,81.25
+D0595,C009,Diego Lopez,camara,En mantenimiento,Desconexion espontanea,05/10/2023,09/08/2024,no,Pendiente,309,2394,Nicaragua,78.34,93.32
+D0596,C001,Fernando Castillo,gps,En mantenimiento,Imagen borrosa,30/06/2023,18/05/2024,no,Completada,323,1761,Antigua y Barbuda,72.15,93.46
+D0597,C005,Fernando Castillo,gps,Activo,No conecta bien,14/05/2023,15/06/2023,no,Pendiente,32,2814,Saint Kitts y Nevis,78.74,98.55
+D0598,C008,Carlos Diaz,gps,En mantenimiento,No reconoce los datos,11/05/2024,03/11/2024,no,Completada,176,2580,Guatemala,77.07,97.62
+D0599,C002,Raul Castillo,monitor,Activo,Desconexion espontanea,17/06/2023,05/06/2024,no,Completada,354,2121,Honduras,60.16,97.9
+D0600,C008,Lucia Sanchez,monitor,Inactivo,Imagen borrosa,19/04/2023,07/07/2024,si,Completada,445,1748,Uruguay,56.52,85.08
+D0601,C001,Fernando Cruz,gps,En mantenimiento,No conecta bien,19/04/2023,08/11/2023,no,Pendiente,203,1897,Barbados,79.52,91.96
+D0602,C006,Valeria Gomez,gps,Activo,No reconoce los datos,22/06/2024,25/12/2024,no,Pendiente,186,1966,Granada,65.47,87.39
+D0603,C006,Ana Rodriguez,monitor,Inactivo,Desconexion espontanea,02/09/2023,09/05/2024,si,Completada,250,2072,Saint Vincent y las Granadinas,54.56,80.25
+D0604,C005,Andrea Mendoza,monitor,En mantenimiento,Imagen borrosa,21/09/2023,22/12/2023,no,Pendiente,92,2915,Trinidad y Tobago,68,98.06
+D0605,C005,Luis Ortega,camara,Inactivo,No conecta bien,09/01/2024,28/07/2024,no,Completada,201,2480,Saint Kitts y Nevis,75.45,88.38
+D0606,C006,Luis Sanchez,camara,Activo,No reconoce los datos,10/08/2024,06/11/2024,no,Pendiente,88,2905,Honduras,71.33,84.3
+D0607,C007,Valeria Rodriguez,camara,En mantenimiento,Desconexion espontanea,14/11/2023,25/05/2024,no,Completada,193,2586,Belice,73.02,99.98
+D0608,C004,Isabel Gonzalez,gps,Inactivo,Imagen borrosa,16/11/2024,29/11/2024,si,Pendiente,13,2622,Peru,58.83,87.92
+D0609,C002,Luis Gonzalez,monitor,En mantenimiento,No conecta bien,23/08/2023,03/11/2023,no,Completada,72,2107,Honduras,61.15,97.23
+D0610,C010,Juan Sanchez,camara,Inactivo,No reconoce los datos,07/05/2023,22/06/2024,no,Completada,412,2616,Bahamas,61.91,86.54
+D0611,C008,Isabel Castillo,monitor,Inactivo,Desconexion espontanea,25/02/2024,28/10/2024,si,Completada,246,2443,Guyana,63.83,93.92
+D0612,C010,Francisco Cruz,camara,Activo,Imagen borrosa,14/08/2023,18/09/2023,si,Pendiente,35,1663,San Cristobal y Nieves,77.14,99.14
+D0613,C008,Juan Mendoza,monitor,Inactivo,No conecta bien,06/02/2024,03/03/2024,no,Completada,26,1548,Surinam,75.21,92.87
+D0614,C008,Valeria Torres,camara,Inactivo,No reconoce los datos,06/07/2023,10/10/2024,no,Completada,462,2145,Colombia,66.03,99.81
+D0615,C003,Isabel Cruz,gps,En mantenimiento,Desconexion espontanea,08/02/2023,16/09/2024,si,Pendiente,586,2069,Belice,69.07,92.91
+D0616,C009,Isabel Cruz,monitor,Activo,Imagen borrosa,08/08/2023,26/11/2023,si,Completada,110,2927,Paraguay,74.31,96.4
+D0617,C010,Juan Torres,gps,Inactivo,No conecta bien,07/06/2024,31/10/2024,no,Pendiente,146,2201,Surinam,65.92,90.9
+D0618,C010,Sofia Rodriguez,monitor,En mantenimiento,No reconoce los datos,07/03/2024,17/11/2024,no,Pendiente,255,1816,Belice,74.62,85.58
+D0619,C006,Alejandra Lopez,gps,En mantenimiento,Desconexion espontanea,04/09/2023,07/08/2024,si,Pendiente,338,2667,Bolivia,56.18,94.35
+D0620,C009,Jorge Flores,gps,Inactivo,Imagen borrosa,16/10/2024,29/12/2024,si,Pendiente,74,2487,Venezuela,75.45,90.29
+D0621,C002,Luis Vargas,monitor,Activo,No conecta bien,11/07/2024,21/10/2024,no,Completada,102,1605,Granada,67.54,85.98
+D0622,C009,Carlos Vargas,camara,Activo,No reconoce los datos,21/06/2024,13/08/2024,no,Pendiente,53,2279,Antigua y Barbuda,61.73,93.62
+D0623,C006,Isabel Torres,monitor,Inactivo,Desconexion espontanea,22/11/2024,06/12/2024,no,Pendiente,14,2260,Paraguay,62.28,83.06
+D0624,C008,Valeria Morales,camara,Activo,Imagen borrosa,07/05/2023,11/06/2023,si,Pendiente,35,1588,Colombia,53.74,88.13
+D0625,C010,Gabriel Ortega,gps,En mantenimiento,No conecta bien,15/06/2024,07/08/2024,no,Completada,53,2544,Brasil,79.17,97.88
+D0626,C010,Luis Lopez,monitor,Inactivo,No reconoce los datos,07/03/2023,06/10/2024,si,Completada,579,2484,Trinidad y Tobago,75.26,81.35
+D0627,C001,Alejandra Sanchez,gps,Inactivo,Desconexion espontanea,29/05/2024,24/12/2024,si,Pendiente,209,2592,Santa Lucia,73.34,95.43
+D0628,C008,Sofia Flores,monitor,En mantenimiento,Imagen borrosa,11/11/2024,16/12/2024,si,Pendiente,35,2998,Peru,55.99,85.63
+D0629,C009,Mariana Vargas,camara,En mantenimiento,No conecta bien,24/06/2024,12/11/2024,si,Completada,141,2162,Mexico,70.42,89.67
+D0630,C010,Francisco Cruz,gps,Inactivo,No reconoce los datos,21/08/2024,28/12/2024,no,Pendiente,129,1589,Saint Lucia,66.53,90.89
+D0631,C010,Ana Lopez,camara,En mantenimiento,Desconexion espontanea,28/10/2023,16/05/2024,no,Pendiente,201,2175,Bolivia,70.02,89.34
+D0632,C005,Antonio Garcia,camara,Inactivo,Imagen borrosa,04/05/2023,08/03/2024,no,Completada,309,2957,Costa Rica,58.59,81.1
+D0633,C005,Ana Lopez,camara,En mantenimiento,No conecta bien,21/03/2023,02/07/2024,no,Completada,469,2475,Ecuador,64.04,87.74
+D0634,C010,Gabriel Martinez,monitor,Inactivo,No reconoce los datos,28/09/2023,29/10/2023,si,Pendiente,31,2466,Trinidad y Tobago,59.66,92.53
+D0635,C003,Mariana Garcia,gps,Inactivo,Desconexion espontanea,01/07/2023,09/10/2024,no,Completada,466,2428,Chile,54.98,83.2
+D0636,C004,Luis Torres,gps,En mantenimiento,Imagen borrosa,15/06/2023,16/10/2024,no,Completada,489,1871,Peru,66.75,86.63
+D0637,C002,Eduardo Flores,camara,Inactivo,No conecta bien,02/01/2023,10/12/2024,si,Pendiente,708,2992,Ecuador,76.48,95.48
+D0638,C008,Valeria Martinez,monitor,En mantenimiento,No reconoce los datos,16/07/2024,30/07/2024,si,Pendiente,14,2042,Argentina,68.19,88.98
+D0639,C006,Jorge Ortega,monitor,Activo,Desconexion espontanea,27/04/2023,09/07/2023,no,Completada,73,1850,Cuba,67.38,94.19
+D0640,C005,Francisco Gomez,gps,Inactivo,Imagen borrosa,28/10/2024,15/11/2024,no,Pendiente,18,1889,Saint Vincent y las Granadinas,77.25,97.63
+D0641,C003,Juan Flores,camara,Activo,No conecta bien,12/12/2023,09/08/2024,si,Pendiente,241,2321,San Cristobal y Nieves,64.42,99.79
+D0642,C002,Jorge Lopez,gps,Activo,No reconoce los datos,12/04/2023,20/10/2024,si,Pendiente,557,1992,Colombia,65.97,98.71
+D0643,C002,Isabel Flores,gps,En mantenimiento,Desconexion espontanea,29/01/2024,19/12/2024,no,Pendiente,325,2254,Bahamas,56.83,90.41
+D0644,C010,Sofia Ramos,camara,En mantenimiento,Imagen borrosa,23/06/2023,09/01/2024,no,Pendiente,200,2789,Republica Dominicana,51.84,95.19
+D0645,C008,Eduardo Gonzalez,camara,En mantenimiento,No conecta bien,21/08/2024,15/12/2024,no,Pendiente,116,1766,El Salvador,75.5,80.66
+D0646,C001,Luis Flores,gps,Inactivo,No reconoce los datos,13/07/2023,30/12/2024,si,Pendiente,536,2921,Colombia,59.32,84.09
+D0647,C004,Gabriel Torres,camara,Activo,Desconexion espontanea,18/10/2024,30/10/2024,si,Completada,12,2587,Costa Rica,61.54,98.24
+D0648,C010,Valeria Morales,camara,En mantenimiento,Imagen borrosa,22/10/2023,03/03/2024,si,Completada,133,2794,Honduras,66.79,99.58
+D0649,C005,Eduardo Gomez,monitor,Inactivo,No conecta bien,09/12/2023,11/12/2024,no,Completada,368,2707,San Cristobal y Nieves,55.98,99.82
+D0650,C006,Fernando Hernandez,gps,Activo,No reconoce los datos,15/03/2024,14/05/2024,si,Pendiente,60,2257,Costa Rica,51.93,88.64
+D0651,C009,Francisco Garcia,gps,Inactivo,Desconexion espontanea,14/04/2024,09/06/2024,no,Completada,56,1930,Chile,72.24,80.45
+D0652,C001,Isabel Garcia,monitor,En mantenimiento,Imagen borrosa,24/01/2024,27/06/2024,si,Completada,155,1721,Barbados,60.22,92.78
+D0653,C004,Carmen Sanchez,monitor,Inactivo,No conecta bien,30/07/2024,07/08/2024,no,Pendiente,8,1680,Jamaica,77.48,94.47
+D0654,C003,Raul Diaz,monitor,Activo,No reconoce los datos,26/12/2023,13/03/2024,si,Pendiente,78,2570,Costa Rica,71.82,99.9
+D0655,C009,Luis Ramos,gps,Activo,Desconexion espontanea,11/02/2024,25/03/2024,no,Pendiente,43,1542,Belice,65.45,93.32
+D0656,C009,Raul Cruz,camara,En mantenimiento,Imagen borrosa,24/02/2024,18/06/2024,si,Completada,115,1542,Colombia,70.92,99.87
+D0657,C003,Ana Flores,gps,Activo,No conecta bien,30/11/2023,15/08/2024,si,Completada,259,1997,Mexico,58.84,94.74
+D0658,C001,Alejandra Castillo,gps,Activo,No reconoce los datos,18/09/2023,22/08/2024,no,Completada,339,1805,Surinam,77.98,88.13
+D0659,C002,Carlos Flores,monitor,En mantenimiento,Desconexion espontanea,26/11/2023,18/01/2024,no,Completada,53,2549,Guatemala,50.05,89.6
+D0660,C006,Sofia Vargas,gps,En mantenimiento,Imagen borrosa,08/12/2023,20/07/2024,no,Pendiente,225,2731,Panama,60.16,98.72
+D0661,C002,Miguel Cruz,monitor,Activo,No conecta bien,12/05/2024,28/05/2024,no,Pendiente,16,2750,Brasil,64.19,97.43
+D0662,C010,Sofia Gomez,camara,Activo,No reconoce los datos,13/01/2023,18/11/2024,no,Pendiente,675,2915,Peru,61.77,99.47
+D0663,C003,Raul Sanchez,monitor,En mantenimiento,Desconexion espontanea,19/07/2024,30/09/2024,si,Completada,73,2391,Barbados,58.38,97.94
+D0664,C005,Francisco Sanchez,camara,Inactivo,Imagen borrosa,15/02/2024,05/10/2024,no,Completada,233,2448,Mexico,61.91,89.19
+D0665,C005,Maria Cruz,camara,Activo,No conecta bien,15/07/2024,18/11/2024,si,Pendiente,126,2676,Honduras,52.8,97.44
+D0666,C010,Raul Ramos,monitor,En mantenimiento,No reconoce los datos,20/12/2023,21/12/2023,si,Completada,1,1647,Chile,61.35,96.79
+D0667,C003,Carmen Gonzalez,gps,Activo,Desconexion espontanea,06/08/2023,16/08/2023,no,Pendiente,10,2982,Argentina,68.19,95.85
+D0668,C004,Maria Diaz,gps,Inactivo,Imagen borrosa,23/08/2023,26/03/2024,no,Completada,216,2952,Venezuela,71.02,87.42
+D0669,C003,Antonio Morales,monitor,En mantenimiento,No conecta bien,19/11/2023,05/10/2024,si,Pendiente,321,2021,Peru,63.75,88.94
+D0670,C004,Ana Flores,gps,Activo,No reconoce los datos,29/09/2024,13/11/2024,no,Pendiente,45,1534,Bahamas,56.06,80.32
+D0671,C008,Valeria Lopez,gps,Activo,Desconexion espontanea,23/07/2023,23/11/2023,si,Pendiente,123,2462,Paraguay,74.13,99.25
+D0672,C007,Lucia Sanchez,gps,Inactivo,Imagen borrosa,20/12/2024,23/12/2024,si,Completada,3,2502,Saint Vincent y las Granadinas,61.61,85.95
+D0673,C010,Juan Sanchez,gps,Activo,No conecta bien,12/07/2023,15/11/2024,si,Pendiente,492,2275,Bahamas,50.04,99.01
+D0674,C010,Luis Ortega,gps,En mantenimiento,No reconoce los datos,15/06/2023,27/09/2023,si,Pendiente,104,2519,Bahamas,71.75,93.6
+D0675,C008,Luis Ramirez,monitor,En mantenimiento,Desconexion espontanea,15/04/2024,19/10/2024,si,Pendiente,187,2226,Paraguay,56.44,89.58
+D0676,C010,Andrea Ramirez,camara,Activo,Imagen borrosa,13/09/2023,16/10/2024,no,Completada,399,1898,Guyana,52.17,82.36
+D0677,C007,Andrea Rodriguez,gps,Inactivo,No conecta bien,03/11/2023,23/11/2023,no,Completada,20,2152,Jamaica,69.33,98.63
+D0678,C004,Isabel Sanchez,gps,Inactivo,No reconoce los datos,12/05/2023,10/05/2024,si,Completada,364,1925,Panama,72.67,87.87
+D0679,C008,Ana Garcia,camara,En mantenimiento,Desconexion espontanea,12/12/2023,05/11/2024,no,Completada,329,1718,Surinam,68.32,85.8
+D0680,C006,Jorge Torres,camara,En mantenimiento,Imagen borrosa,29/05/2023,31/05/2024,no,Completada,368,1508,Trinidad y Tobago,65.88,80.68
+D0681,C009,Ana Lopez,monitor,Inactivo,No conecta bien,30/07/2024,04/10/2024,si,Pendiente,66,2155,Mexico,58.43,91.82
+D0682,C001,Fernando Lopez,monitor,Inactivo,No reconoce los datos,28/06/2023,03/12/2023,si,Pendiente,158,1734,Dominica,69.17,89.29
+D0683,C009,Maria Torres,camara,En mantenimiento,Desconexion espontanea,16/11/2024,26/12/2024,si,Completada,40,1943,Chile,53.78,99.04
+D0684,C004,Eduardo Sanchez,monitor,Inactivo,Imagen borrosa,18/02/2024,01/12/2024,si,Pendiente,287,2470,Saint Lucia,63.28,89.74
+D0685,C006,Elena Lopez,camara,En mantenimiento,No conecta bien,28/09/2024,29/11/2024,si,Pendiente,62,2543,Paraguay,64.89,87.71
+D0686,C010,Miguel Garcia,monitor,En mantenimiento,No reconoce los datos,23/10/2024,05/11/2024,si,Completada,13,1675,Paraguay,50.17,82.35
+D0687,C003,Elena Perez,gps,Activo,Desconexion espontanea,01/12/2023,16/12/2023,no,Completada,15,2343,Panama,73.89,91.68
+D0688,C003,Andrea Rodriguez,monitor,En mantenimiento,Imagen borrosa,24/07/2024,12/12/2024,no,Pendiente,141,2881,Barbados,50.39,82.17
+D0689,C008,Carmen Ramos,gps,Activo,No conecta bien,05/10/2024,01/12/2024,si,Pendiente,57,2709,Cuba,51.46,92.75
+D0690,C010,Luis Martinez,gps,En mantenimiento,No reconoce los datos,26/05/2023,13/09/2024,no,Completada,476,1772,Guatemala,58.24,88.59
+D0691,C005,Valeria Martinez,camara,Activo,Desconexion espontanea,16/12/2023,07/04/2024,si,Pendiente,113,1628,Bahamas,70.5,84.21
+D0692,C003,Lucia Sanchez,gps,En mantenimiento,Imagen borrosa,18/11/2024,18/12/2024,no,Completada,30,1795,Nicaragua,64.02,82.85
+D0693,C003,Isabel Rodriguez,monitor,Activo,No conecta bien,20/06/2023,24/09/2023,si,Completada,96,2948,Guatemala,56.76,99.82
+D0694,C009,Ana Martinez,monitor,Inactivo,No reconoce los datos,25/12/2023,24/06/2024,no,Completada,182,2214,Saint Vincent y las Granadinas,65.69,83.56
+D0695,C001,Miguel Martinez,gps,Activo,Desconexion espontanea,17/02/2023,19/07/2023,no,Completada,152,1734,Belice,53.06,87.75
+D0696,C005,Alejandra Gonzalez,monitor,En mantenimiento,Imagen borrosa,03/12/2023,24/08/2024,si,Completada,265,2576,Guyana,68.09,85.01
+D0697,C008,Mariana Vargas,gps,En mantenimiento,No conecta bien,19/06/2024,04/12/2024,si,Completada,168,2808,Belice,70.61,89.02
+D0698,C006,Luis Torres,camara,En mantenimiento,No reconoce los datos,11/06/2024,27/11/2024,no,Completada,169,2926,Santa Lucia,58.88,88.12
+D0699,C008,Ana Gonzalez,gps,Inactivo,Desconexion espontanea,27/06/2024,11/12/2024,no,Pendiente,167,2229,Saint Vincent y las Granadinas,66.89,98.8
+D0700,C007,Raul Martinez,gps,Inactivo,Imagen borrosa,28/08/2023,01/11/2024,no,Pendiente,431,1677,Uruguay,75.39,81.42
+D0701,C008,Luis Morales,monitor,Activo,No conecta bien,18/06/2024,24/07/2024,no,Pendiente,36,2058,Costa Rica,71.05,97.66
+D0702,C007,Mariana Vargas,camara,En mantenimiento,No reconoce los datos,26/08/2024,14/12/2024,si,Pendiente,110,2543,Trinidad y Tobago,70.93,83.15
+D0703,C002,Ana Castillo,monitor,Activo,Desconexion espontanea,12/03/2024,26/06/2024,si,Completada,106,2981,Panama,54.09,81.44
+D0704,C004,Jorge Gomez,gps,Inactivo,Imagen borrosa,18/04/2023,10/02/2024,si,Completada,298,2961,Santa Lucia,59.37,97.51
+D0705,C008,Paula Vargas,camara,Inactivo,No conecta bien,27/12/2023,14/04/2024,no,Completada,109,1723,Bahamas,71.39,84.72
+D0706,C002,Isabel Morales,gps,Activo,No reconoce los datos,14/09/2023,13/02/2024,si,Completada,152,1989,Barbados,67.24,97.92
+D0707,C005,Diego Ramirez,gps,En mantenimiento,Desconexion espontanea,18/02/2023,15/09/2023,si,Completada,209,1564,Antigua y Barbuda,55.07,94.41
+D0708,C006,Lucia Diaz,gps,En mantenimiento,Imagen borrosa,03/03/2024,22/03/2024,si,Completada,19,1962,Granada,69.78,80.94
+D0709,C006,Fernando Ramirez,monitor,Activo,No conecta bien,04/03/2023,21/07/2024,no,Pendiente,505,2133,El Salvador,72.64,91.59
+D0710,C006,Ana Martinez,camara,Inactivo,No reconoce los datos,20/04/2024,21/08/2024,no,Pendiente,123,2301,Guatemala,67.4,95.21
+D0711,C010,Ana Ramos,camara,Inactivo,Desconexion espontanea,26/06/2023,06/12/2023,si,Completada,163,2871,Colombia,79.93,80.05
+D0712,C002,Paula Ramirez,monitor,Inactivo,Imagen borrosa,24/12/2023,27/03/2024,si,Pendiente,94,1932,Guyana,57.61,94.6
+D0713,C008,Gabriel Mendoza,gps,Activo,No conecta bien,01/04/2024,29/12/2024,no,Completada,272,2618,Mexico,76.9,99.95
+D0714,C004,Raul Sanchez,camara,En mantenimiento,No reconoce los datos,08/06/2023,23/06/2024,si,Pendiente,381,2794,Guyana,67.41,91.37
+D0715,C003,Carlos Castillo,monitor,Inactivo,Desconexion espontanea,15/11/2023,18/05/2024,no,Completada,185,2544,Saint Lucia,54.58,98.43
+D0716,C003,Francisco Vargas,camara,En mantenimiento,Imagen borrosa,19/04/2024,09/09/2024,si,Pendiente,143,2150,Santa Lucia,53.84,99.15
+D0717,C005,Sofia Garcia,camara,Activo,No conecta bien,12/01/2023,27/10/2023,si,Pendiente,288,2650,Saint Kitts y Nevis,53.1,92.9
+D0718,C001,Gabriel Flores,gps,Activo,No reconoce los datos,04/06/2023,19/09/2023,si,Completada,107,1658,Peru,79,96.57
+D0719,C005,Eduardo Lopez,gps,Inactivo,Desconexion espontanea,02/01/2024,30/04/2024,no,Pendiente,119,1541,Paraguay,76.6,86.79
+D0720,C006,Luis Sanchez,monitor,Activo,Imagen borrosa,05/08/2024,10/10/2024,no,Pendiente,66,2566,Chile,54.97,83.64
+D0721,C009,Alejandra Morales,gps,Activo,No conecta bien,19/02/2023,24/03/2024,si,Completada,399,1723,Cuba,77.58,81.11
+D0722,C002,Ana Ramirez,gps,En mantenimiento,No reconoce los datos,14/07/2024,03/10/2024,si,Completada,81,1835,Panama,57.21,97.31
+D0723,C006,Mariana Ortega,monitor,Activo,Desconexion espontanea,28/01/2024,11/02/2024,si,Pendiente,14,2285,Bolivia,74.26,95.83
+D0724,C003,Fernando Ramirez,monitor,En mantenimiento,Imagen borrosa,14/05/2024,05/12/2024,no,Completada,205,2084,Cuba,61.76,93.53
+D0725,C005,Francisco Martinez,monitor,En mantenimiento,No conecta bien,16/01/2023,27/09/2023,no,Pendiente,254,1847,Panama,51.76,92.09
+D0726,C004,Diego Torres,camara,En mantenimiento,No reconoce los datos,10/10/2024,25/12/2024,no,Pendiente,76,2647,Venezuela,75.53,92.12
+D0727,C007,Andrea Gomez,camara,En mantenimiento,Desconexion espontanea,11/02/2023,26/08/2024,si,Completada,562,2714,Dominica,68.93,93.24
+D0728,C003,Ana Lopez,monitor,Activo,Imagen borrosa,15/08/2023,08/08/2024,no,Completada,359,2524,Trinidad y Tobago,58.12,88.77
+D0729,C005,Carlos Gonzalez,camara,Inactivo,No conecta bien,10/06/2024,08/12/2024,si,Completada,181,1796,Belice,71.16,91.28
+D0730,C008,Jorge Gomez,monitor,Inactivo,No reconoce los datos,06/04/2024,04/12/2024,no,Pendiente,242,1770,Saint Kitts y Nevis,59.18,91.79
+D0731,C002,Jorge Torres,monitor,Inactivo,Desconexion espontanea,16/08/2024,12/12/2024,si,Completada,118,1980,Peru,65.29,89.14
+D0732,C002,Isabel Martinez,monitor,Inactivo,Imagen borrosa,04/03/2024,12/06/2024,no,Pendiente,100,1733,Saint Vincent y las Granadinas,63.37,96.64
+D0733,C009,Sofia Sanchez,monitor,Activo,No conecta bien,09/03/2023,23/04/2023,no,Completada,45,2058,Nicaragua,72.14,99.95
+D0734,C003,Valeria Flores,monitor,Inactivo,No reconoce los datos,28/10/2023,23/02/2024,no,Completada,118,2614,Dominica,54.1,85.22
+D0735,C009,Antonio Hernandez,monitor,Inactivo,Desconexion espontanea,03/01/2024,09/06/2024,no,Completada,158,2343,Honduras,72.38,90.94
+D0736,C010,Paula Hernandez,gps,En mantenimiento,Imagen borrosa,27/07/2023,23/01/2024,si,Completada,180,1709,Paraguay,55.57,89.4
+D0737,C010,Raul Flores,camara,Inactivo,No conecta bien,09/01/2024,09/02/2024,si,Pendiente,31,2962,Costa Rica,56.53,100
+D0738,C004,Raul Rodriguez,monitor,En mantenimiento,No reconoce los datos,16/02/2024,23/05/2024,no,Completada,97,2629,El Salvador,71.6,91.11
+D0739,C002,Carmen Sanchez,monitor,Activo,Desconexion espontanea,21/05/2024,05/06/2024,no,Pendiente,15,1782,Ecuador,55.07,85.31
+D0740,C010,Lucia Rodriguez,monitor,Inactivo,Imagen borrosa,29/07/2023,07/03/2024,no,Completada,222,2294,San Cristobal y Nieves,77.35,84.59
+D0741,C010,Gabriel Lopez,gps,Activo,No conecta bien,09/12/2023,11/01/2024,no,Completada,33,2893,Costa Rica,78.43,88.25
+D0742,C007,Carlos Ortega,camara,En mantenimiento,No reconoce los datos,12/03/2023,21/05/2023,si,Completada,70,1981,Antigua y Barbuda,79.16,92.34
+D0743,C005,Raul Morales,monitor,Activo,Desconexion espontanea,16/06/2023,07/08/2023,si,Pendiente,52,1624,Chile,78.09,88.61
+D0744,C002,Raul Rodriguez,monitor,Inactivo,Imagen borrosa,23/01/2023,11/11/2024,no,Pendiente,658,1977,Surinam,77.32,81.53
+D0745,C007,Eduardo Lopez,camara,Activo,No conecta bien,03/05/2023,29/10/2023,no,Completada,179,2962,Costa Rica,73.32,82.02
+D0746,C001,Elena Mendoza,gps,En mantenimiento,No reconoce los datos,25/01/2024,11/12/2024,si,Completada,321,2631,Ecuador,55.94,94.46
+D0747,C010,Elena Ortega,monitor,Activo,Desconexion espontanea,21/04/2023,25/05/2024,no,Pendiente,400,2151,Ecuador,69.1,89.07
+D0748,C005,Andrea Cruz,camara,Inactivo,Imagen borrosa,08/04/2023,29/10/2024,no,Pendiente,570,2042,Jamaica,51.08,92.71
+D0749,C003,Raul Diaz,monitor,En mantenimiento,No conecta bien,14/04/2024,27/11/2024,no,Pendiente,227,1606,San Cristobal y Nieves,51.78,82.46
+D0750,C001,Sofia Hernandez,gps,Inactivo,No reconoce los datos,04/11/2024,31/12/2024,no,Pendiente,57,1632,Costa Rica,56.8,93.57
+D0751,C005,Eduardo Torres,camara,Inactivo,Desconexion espontanea,14/02/2023,11/04/2023,si,Completada,56,1610,Chile,50.79,87.64
+D0752,C001,Eduardo Diaz,gps,Inactivo,Imagen borrosa,28/02/2023,18/03/2024,no,Completada,384,1858,Saint Kitts y Nevis,52.29,88.27
+D0753,C007,Francisco Perez,monitor,Activo,No conecta bien,30/03/2024,04/09/2024,si,Pendiente,158,2793,Saint Vincent y las Granadinas,73.14,89.76
+D0754,C008,Juan Diaz,camara,En mantenimiento,No reconoce los datos,16/03/2023,27/05/2023,no,Pendiente,72,1931,Colombia,58.7,97.13
+D0755,C007,Antonio Perez,monitor,Activo,Desconexion espontanea,02/03/2023,27/07/2023,no,Completada,147,1831,Mexico,55.45,97.67
+D0756,C008,Luis Cruz,camara,En mantenimiento,Imagen borrosa,15/07/2023,11/10/2024,si,Pendiente,454,1820,Venezuela,59.27,99.99
+D0757,C006,Elena Morales,camara,Inactivo,No conecta bien,09/02/2024,27/09/2024,no,Pendiente,231,1622,Argentina,71.59,97.39
+D0758,C004,Paula Torres,camara,Inactivo,No reconoce los datos,27/09/2024,02/10/2024,no,Pendiente,5,1561,Cuba,77.78,85.5
+D0759,C004,Paula Martinez,camara,Activo,Desconexion espontanea,13/07/2023,21/12/2024,si,Pendiente,527,1572,Trinidad y Tobago,77.08,95.97
+D0760,C008,Diego Perez,gps,Inactivo,Imagen borrosa,22/03/2023,15/09/2024,si,Completada,543,2871,Guatemala,52.05,86.03
+D0761,C007,Ana Morales,gps,En mantenimiento,No conecta bien,29/07/2023,16/04/2024,si,Pendiente,262,2337,Colombia,55.15,89.29
+D0762,C008,Maria Rodriguez,monitor,En mantenimiento,No reconoce los datos,25/12/2024,31/12/2024,no,Pendiente,6,2729,Colombia,76.49,94.56
+D0763,C006,Miguel Rodriguez,monitor,Activo,Desconexion espontanea,14/08/2023,11/10/2023,si,Completada,58,2495,Santa Lucia,70.77,99.74
+D0764,C006,Valeria Gonzalez,gps,En mantenimiento,Imagen borrosa,17/03/2023,20/10/2023,no,Pendiente,217,1558,Costa Rica,54.43,95.29
+D0765,C005,Andrea Gonzalez,monitor,Inactivo,No conecta bien,05/12/2023,23/03/2024,si,Pendiente,109,2045,Brasil,60.17,81.28
+D0766,C001,Alejandra Ramos,gps,En mantenimiento,No reconoce los datos,17/07/2023,19/08/2023,no,Completada,33,1919,Peru,54.27,80.09
+D0767,C007,Sofia Diaz,camara,En mantenimiento,Desconexion espontanea,18/12/2024,25/12/2024,no,Completada,7,2708,Cuba,76.78,80.04
+D0768,C010,Mariana Cruz,monitor,En mantenimiento,Imagen borrosa,29/10/2024,02/12/2024,si,Pendiente,34,2696,Costa Rica,78.41,88.1
+D0769,C004,Raul Gomez,monitor,Inactivo,No conecta bien,02/07/2023,06/07/2023,no,Completada,4,2701,Saint Kitts y Nevis,74.42,91.59
+D0770,C005,Mariana Ramirez,camara,Activo,No reconoce los datos,16/10/2024,21/11/2024,no,Pendiente,36,2553,Antigua y Barbuda,56.16,98.44
+D0771,C010,Ana Torres,camara,Inactivo,Desconexion espontanea,09/02/2024,30/09/2024,si,Completada,234,2331,Peru,77.82,91.96
+D0772,C004,Eduardo Torres,camara,Inactivo,Imagen borrosa,14/05/2023,14/09/2024,si,Completada,489,2677,Bahamas,67.91,83.93
+D0773,C006,Miguel Martinez,monitor,Inactivo,No conecta bien,07/12/2023,04/05/2024,no,Completada,149,2726,Santa Lucia,68.26,85.76
+D0774,C005,Jorge Torres,monitor,Inactivo,No reconoce los datos,21/08/2023,17/05/2024,no,Completada,270,1976,Argentina,64.47,81.85
+D0775,C003,Diego Cruz,camara,Inactivo,Desconexion espontanea,18/08/2023,07/04/2024,no,Pendiente,233,2427,Honduras,51.46,88.87
+D0776,C003,Andrea Garcia,gps,Inactivo,Imagen borrosa,24/05/2024,04/11/2024,no,Pendiente,164,2086,Belice,73.39,88.81
+D0777,C010,Eduardo Ortega,camara,Inactivo,No conecta bien,23/12/2023,08/01/2024,si,Pendiente,16,2927,Republica Dominicana,79.37,95.41
+D0778,C001,Gabriel Flores,camara,Activo,No reconoce los datos,09/06/2024,25/11/2024,no,Completada,169,1802,El Salvador,72.76,90.63
+D0779,C008,Mariana Gomez,gps,Inactivo,Desconexion espontanea,11/09/2023,09/01/2024,si,Pendiente,120,2696,Belice,63.43,88.04
+D0780,C002,Paula Cruz,camara,Activo,Imagen borrosa,04/12/2024,12/12/2024,no,Completada,8,1554,Argentina,72.27,89.16
+D0781,C010,Andrea Sanchez,camara,En mantenimiento,No conecta bien,02/03/2024,06/05/2024,no,Pendiente,65,2509,Saint Lucia,78.66,83.93
+D0782,C006,Alejandra Ramirez,camara,En mantenimiento,No reconoce los datos,09/06/2023,30/06/2023,si,Pendiente,21,2722,Uruguay,75.65,82.3
+D0783,C008,Elena Vargas,monitor,En mantenimiento,Desconexion espontanea,07/11/2023,13/04/2024,si,Completada,158,1604,San Cristobal y Nieves,50.32,88.55
+D0784,C006,Antonio Martinez,monitor,Activo,Imagen borrosa,01/09/2023,30/04/2024,no,Completada,242,2527,Honduras,76.5,80.44
+D0785,C009,Luis Morales,gps,Activo,No conecta bien,27/04/2024,07/10/2024,no,Completada,163,2951,San Cristobal y Nieves,62.79,86.14
+D0786,C002,Valeria Mendoza,gps,Activo,No reconoce los datos,29/10/2023,10/07/2024,si,Completada,255,1694,Argentina,62.91,93.77
+D0787,C002,Francisco Diaz,gps,Inactivo,Desconexion espontanea,16/03/2024,29/04/2024,no,Pendiente,44,1907,Chile,77.59,90.34
+D0788,C009,Gabriel Rodriguez,monitor,Inactivo,Imagen borrosa,12/10/2024,28/11/2024,no,Completada,47,2349,Brasil,70.71,92.41
+D0789,C007,Diego Mendoza,gps,Activo,No conecta bien,20/05/2023,21/07/2024,no,Completada,428,1550,Granada,54.25,95.73
+D0790,C008,Paula Sanchez,gps,En mantenimiento,No reconoce los datos,06/09/2024,10/09/2024,si,Completada,4,2459,El Salvador,66.19,83.06
+D0791,C005,Sofia Morales,monitor,En mantenimiento,Desconexion espontanea,08/11/2023,05/12/2023,si,Pendiente,27,2822,Belice,50.01,93.51
+D0792,C001,Fernando Ramirez,monitor,En mantenimiento,Imagen borrosa,13/08/2024,28/08/2024,no,Pendiente,15,1700,Venezuela,74.32,92.99
+D0793,C006,Elena Mendoza,gps,Activo,No conecta bien,08/10/2024,25/12/2024,si,Completada,78,2888,San Cristobal y Nieves,75.44,86.19
+D0794,C003,Fernando Ramos,gps,Activo,No reconoce los datos,13/02/2024,05/07/2024,si,Completada,143,2899,Surinam,70.11,91.97
+D0795,C006,Jorge Ramirez,monitor,Activo,Desconexion espontanea,18/09/2023,11/11/2024,no,Pendiente,420,1604,Saint Lucia,58.04,87.63
+D0796,C009,Alejandra Garcia,gps,Inactivo,Imagen borrosa,14/02/2024,21/05/2024,si,Completada,97,2558,Mexico,55.38,90.45
+D0797,C010,Raul Castillo,camara,En mantenimiento,No conecta bien,21/10/2023,25/12/2024,no,Completada,431,2178,Guyana,77.55,84.78
+D0798,C001,Juan Perez,monitor,Activo,No reconoce los datos,23/06/2023,07/05/2024,si,Completada,319,2828,Saint Lucia,67.35,89.7
+D0799,C007,Valeria Lopez,gps,Activo,Desconexion espontanea,10/10/2023,20/07/2024,si,Completada,284,1878,El Salvador,76.18,88.91
+D0800,C003,Miguel Castillo,camara,En mantenimiento,Imagen borrosa,31/07/2023,22/10/2023,si,Pendiente,83,2312,Belice,66.61,95.22
+D0801,C007,Sofia Morales,gps,Activo,No conecta bien,26/09/2023,02/11/2023,si,Pendiente,37,1745,Saint Kitts y Nevis,51.33,86.12
+D0802,C001,Miguel Morales,monitor,Inactivo,No reconoce los datos,28/02/2023,29/01/2024,si,Pendiente,335,2929,Chile,55.38,83.46
+D0803,C001,Francisco Perez,camara,Inactivo,Desconexion espontanea,15/08/2024,19/08/2024,si,Completada,4,1946,Paraguay,78.97,98.71
+D0804,C002,Lucia Ortega,monitor,En mantenimiento,Imagen borrosa,29/08/2023,10/11/2023,si,Completada,73,2949,Guatemala,61.68,90.56
+D0805,C006,Gabriel Ramirez,gps,En mantenimiento,No conecta bien,07/09/2023,28/08/2024,no,Pendiente,356,2356,Guyana,66.54,90.06
+D0806,C003,Valeria Torres,monitor,En mantenimiento,No reconoce los datos,24/06/2023,30/01/2024,no,Completada,220,2193,El Salvador,62.32,96.6
+D0807,C010,Jorge Gonzalez,monitor,En mantenimiento,Desconexion espontanea,20/12/2024,20/12/2024,no,Pendiente,0,2971,Saint Vincent y las Granadinas,69.5,86.24
+D0808,C010,Francisco Ramirez,gps,Inactivo,Imagen borrosa,19/12/2023,04/09/2024,no,Completada,260,1510,Honduras,65.11,80.55
+D0809,C006,Miguel Lopez,gps,En mantenimiento,No conecta bien,05/12/2023,08/12/2023,no,Completada,3,2701,Surinam,60.82,90.69
+D0810,C007,Diego Vargas,camara,Activo,No reconoce los datos,22/03/2023,18/10/2024,si,Pendiente,576,2828,Saint Kitts y Nevis,75.11,81.57
+D0811,C006,Lucia Gomez,camara,En mantenimiento,Desconexion espontanea,27/01/2024,07/03/2024,no,Completada,40,1890,Colombia,61.49,86.9
+D0812,C008,Francisco Ortega,camara,En mantenimiento,Imagen borrosa,24/06/2024,13/08/2024,no,Completada,50,2808,Colombia,52.11,90.64
+D0813,C006,Sofia Sanchez,gps,Inactivo,No conecta bien,22/02/2024,26/09/2024,si,Completada,217,2288,Dominica,79.65,92.36
+D0814,C003,Valeria Ramos,gps,Inactivo,No reconoce los datos,25/10/2023,09/01/2024,no,Completada,76,2521,El Salvador,62.94,95.17
+D0815,C005,Carlos Garcia,camara,Activo,Desconexion espontanea,07/02/2023,19/02/2023,si,Pendiente,12,1680,Saint Lucia,55.58,96.01
+D0816,C009,Miguel Vargas,gps,Activo,Imagen borrosa,07/07/2023,14/08/2023,si,Completada,38,2666,Paraguay,71.91,89.63
+D0817,C001,Mariana Lopez,camara,Activo,No conecta bien,28/02/2023,02/09/2024,si,Completada,552,1675,Argentina,64.47,92.45
+D0818,C003,Raul Lopez,camara,Inactivo,No reconoce los datos,26/10/2024,28/12/2024,si,Completada,63,1903,Dominica,62.91,83.18
+D0819,C007,Gabriel Ramos,gps,En mantenimiento,Desconexion espontanea,27/11/2024,25/12/2024,si,Completada,28,2077,Saint Kitts y Nevis,57.1,95.02
+D0820,C007,Lucia Lopez,monitor,Activo,Imagen borrosa,26/03/2023,03/06/2024,si,Completada,435,2689,Bahamas,76.95,97.06
+D0821,C007,Sofia Sanchez,camara,Activo,No conecta bien,16/02/2023,03/02/2024,no,Completada,352,2245,Dominica,76.34,92.07
+D0822,C002,Diego Ramirez,gps,Inactivo,No reconoce los datos,24/06/2024,11/10/2024,si,Completada,109,2001,Guatemala,60.42,81.69
+D0823,C004,Francisco Gonzalez,monitor,Inactivo,Desconexion espontanea,11/07/2024,27/08/2024,si,Completada,47,2802,Guatemala,68.43,89.15
+D0824,C001,Paula Mendoza,monitor,Inactivo,Imagen borrosa,14/09/2024,26/12/2024,no,Pendiente,103,1771,Uruguay,56.21,81.03
+D0825,C006,Lucia Gonzalez,monitor,En mantenimiento,No conecta bien,05/10/2023,02/10/2024,si,Pendiente,363,2420,Ecuador,58.81,93.09
+D0826,C010,Andrea Ramos,camara,Inactivo,No reconoce los datos,17/03/2024,11/11/2024,si,Completada,239,2214,Bolivia,54.72,92.2
+D0827,C003,Diego Ortega,monitor,Inactivo,Desconexion espontanea,15/03/2024,24/07/2024,si,Pendiente,131,1856,Antigua y Barbuda,71.85,93.04
+D0828,C010,Diego Torres,camara,Inactivo,Imagen borrosa,23/06/2024,11/11/2024,si,Completada,141,2458,Colombia,67.68,83.83
+D0829,C008,Mariana Garcia,monitor,En mantenimiento,No conecta bien,30/04/2023,29/06/2023,no,Pendiente,60,2119,Peru,70.71,99.13
+D0830,C002,Antonio Cruz,gps,Activo,No reconoce los datos,25/07/2024,06/08/2024,si,Completada,12,2100,El Salvador,53,83.74
+D0831,C006,Isabel Rodriguez,monitor,Inactivo,Desconexion espontanea,13/03/2023,16/03/2023,no,Completada,3,2516,Uruguay,79.63,97.45
+D0832,C005,Lucia Diaz,camara,Activo,Imagen borrosa,05/05/2024,28/10/2024,si,Completada,176,2783,Antigua y Barbuda,70.65,90.85
+D0833,C001,Fernando Garcia,gps,En mantenimiento,No conecta bien,26/04/2023,14/08/2024,si,Completada,476,1726,Honduras,74.36,81.17
+D0834,C003,Mariana Castillo,monitor,Inactivo,No reconoce los datos,14/05/2024,05/10/2024,no,Completada,144,1890,Santa Lucia,67.79,83.99
+D0835,C010,Francisco Rodriguez,camara,Inactivo,Desconexion espontanea,27/09/2023,21/10/2023,no,Completada,24,2219,Mexico,57.33,80.68
+D0836,C002,Carlos Gonzalez,monitor,Activo,Imagen borrosa,14/06/2023,03/10/2023,no,Completada,111,2189,Ecuador,75.08,81.48
+D0837,C004,Francisco Diaz,camara,En mantenimiento,No conecta bien,15/03/2024,16/09/2024,no,Completada,185,2137,Saint Lucia,59.19,91.58
+D0838,C009,Paula Cruz,monitor,Inactivo,No reconoce los datos,23/04/2024,07/08/2024,no,Completada,106,2961,Bolivia,71.63,96.01
+D0839,C007,Fernando Ramirez,monitor,Inactivo,Desconexion espontanea,08/10/2023,07/11/2024,no,Pendiente,396,2063,Saint Lucia,59.7,96.24
+D0840,C005,Diego Mendoza,gps,Activo,Imagen borrosa,04/12/2024,14/12/2024,no,Pendiente,10,1549,Santa Lucia,55.76,94.12
+D0841,C002,Maria Vargas,monitor,Inactivo,No conecta bien,20/07/2024,30/07/2024,si,Completada,10,2050,Panama,69.95,94.39
+D0842,C007,Luis Flores,monitor,Activo,No reconoce los datos,05/02/2024,26/11/2024,no,Pendiente,295,2063,Saint Vincent y las Granadinas,75.91,91.57
+D0843,C001,Gabriel Perez,gps,En mantenimiento,Desconexion espontanea,28/04/2023,27/10/2024,si,Pendiente,548,2669,Jamaica,55.09,84.04
+D0844,C001,Gabriel Ortega,camara,En mantenimiento,Imagen borrosa,16/09/2024,07/11/2024,no,Completada,52,2523,Saint Vincent y las Granadinas,61.56,99.02
+D0845,C009,Valeria Vargas,gps,Activo,No conecta bien,21/01/2023,24/04/2023,si,Completada,93,2071,Peru,63.47,89.26
+D0846,C009,Jorge Gomez,camara,Inactivo,No reconoce los datos,13/07/2024,18/12/2024,si,Pendiente,158,2315,Saint Vincent y las Granadinas,70.49,95
+D0847,C001,Lucia Martinez,gps,Inactivo,Desconexion espontanea,18/11/2024,19/11/2024,si,Pendiente,1,1582,Trinidad y Tobago,67.19,98.53
+D0848,C010,Gabriel Vargas,camara,Inactivo,Imagen borrosa,23/10/2024,31/10/2024,no,Pendiente,8,2714,Colombia,62.91,84.83
+D0849,C001,Eduardo Morales,gps,En mantenimiento,No conecta bien,21/12/2023,05/11/2024,si,Completada,320,2720,El Salvador,66.42,86.13
+D0850,C009,Jorge Morales,gps,Activo,No reconoce los datos,10/08/2023,07/11/2023,no,Completada,89,1649,Chile,52.42,89.02
+D0851,C005,Mariana Morales,gps,Activo,Desconexion espontanea,29/04/2023,20/12/2024,si,Completada,601,2377,Bolivia,78.23,91.34
+D0852,C001,Miguel Martinez,camara,Activo,Imagen borrosa,19/02/2024,14/05/2024,si,Completada,85,1830,Dominica,52.39,83.45
+D0853,C003,Maria Martinez,camara,En mantenimiento,No conecta bien,20/12/2023,18/11/2024,si,Completada,334,1602,Granada,67.15,99.75
+D0854,C008,Sofia Castillo,gps,Inactivo,No reconoce los datos,10/09/2024,19/10/2024,no,Pendiente,39,1681,Argentina,76.49,99.9
+D0855,C004,Raul Gomez,gps,Activo,Desconexion espontanea,07/08/2024,30/08/2024,si,Completada,23,1905,Mexico,63.98,85.07
+D0856,C004,Carlos Lopez,gps,Inactivo,Imagen borrosa,26/01/2024,03/04/2024,no,Completada,68,2769,Chile,58.92,89.59
+D0857,C007,Mariana Hernandez,gps,En mantenimiento,No conecta bien,24/06/2023,20/03/2024,si,Pendiente,270,2840,Cuba,63.89,93.77
+D0858,C010,Valeria Sanchez,gps,Activo,No reconoce los datos,02/12/2024,25/12/2024,no,Completada,23,2079,Uruguay,70.76,82.13
+D0859,C005,Gabriel Lopez,monitor,En mantenimiento,Desconexion espontanea,14/12/2023,15/10/2024,si,Completada,306,1892,Surinam,76.63,86.88
+D0860,C009,Gabriel Ramos,gps,Inactivo,Imagen borrosa,22/04/2024,16/06/2024,no,Completada,55,1697,Dominica,77.93,90.24
+D0861,C008,Elena Sanchez,camara,Activo,No conecta bien,18/03/2024,11/08/2024,si,Completada,146,2226,Chile,50.03,96.07
+D0862,C006,Isabel Gonzalez,gps,Activo,No reconoce los datos,31/10/2024,22/11/2024,no,Pendiente,22,2868,Uruguay,60.91,88.18
+D0863,C002,Valeria Lopez,monitor,Activo,Desconexion espontanea,14/03/2024,03/05/2024,si,Pendiente,50,2139,Barbados,56.01,90.58
+D0864,C008,Diego Castillo,monitor,En mantenimiento,Imagen borrosa,10/10/2024,09/12/2024,no,Completada,60,2687,Ecuador,71.82,90.87
+D0865,C001,Gabriel Torres,monitor,Activo,No conecta bien,24/06/2023,21/10/2023,no,Pendiente,119,2191,Nicaragua,70.24,93.86
+D0866,C001,Gabriel Martinez,monitor,Inactivo,No reconoce los datos,05/09/2023,31/03/2024,no,Completada,208,2357,Mexico,66.02,91.25
+D0867,C005,Alejandra Diaz,gps,Inactivo,Desconexion espontanea,24/07/2023,28/10/2023,no,Pendiente,96,2503,Santa Lucia,68.49,81.7
+D0868,C002,Valeria Vargas,camara,Activo,Imagen borrosa,28/06/2023,23/11/2023,si,Completada,148,2404,Santa Lucia,77.66,87.61
+D0869,C007,Ana Gomez,camara,Activo,No conecta bien,18/02/2023,29/12/2023,no,Pendiente,314,1975,Belice,75.56,91.64
+D0870,C004,Andrea Rodriguez,camara,Activo,No reconoce los datos,24/10/2024,13/12/2024,no,Completada,50,2457,Trinidad y Tobago,51.44,95.75
+D0871,C006,Eduardo Vargas,monitor,En mantenimiento,Desconexion espontanea,18/03/2024,30/10/2024,no,Completada,226,2631,Saint Lucia,72.11,98.21
+D0872,C001,Miguel Morales,camara,Inactivo,Imagen borrosa,26/05/2024,29/09/2024,no,Completada,126,1738,Chile,77.36,98.46
+D0873,C003,Paula Rodriguez,gps,En mantenimiento,No conecta bien,21/02/2024,19/07/2024,si,Pendiente,149,2885,Bahamas,71.92,87.86
+D0874,C004,Diego Flores,monitor,Activo,No reconoce los datos,04/11/2023,17/02/2024,si,Completada,105,1856,Bahamas,79.13,80.21
+D0875,C004,Lucia Ramirez,gps,Activo,Desconexion espontanea,05/06/2024,01/12/2024,si,Completada,179,2502,Panama,75.47,93.75
+D0876,C007,Sofia Rodriguez,camara,Activo,Imagen borrosa,24/06/2023,24/04/2024,no,Completada,305,1513,Mexico,65.38,81.46
+D0877,C010,Jorge Ramirez,camara,Inactivo,No conecta bien,20/05/2024,30/05/2024,no,Pendiente,10,2988,Jamaica,67.25,85.05
+D0878,C001,Francisco Gomez,monitor,Activo,No reconoce los datos,17/01/2023,22/04/2024,si,Pendiente,461,2306,Antigua y Barbuda,72.5,97.13
+D0879,C010,Alejandra Cruz,gps,Activo,Desconexion espontanea,10/06/2023,11/12/2024,no,Completada,550,1924,Chile,68.96,80.94
+D0880,C005,Luis Perez,monitor,En mantenimiento,Imagen borrosa,08/09/2023,20/10/2023,si,Completada,42,2113,Uruguay,75.97,87.43
+D0881,C005,Raul Vargas,camara,En mantenimiento,No conecta bien,12/10/2024,12/12/2024,si,Completada,61,2735,Dominica,74.04,86.99
+D0882,C008,Antonio Torres,gps,Inactivo,No reconoce los datos,27/05/2023,10/08/2023,no,Pendiente,75,1685,Guatemala,65.19,92.95
+D0883,C003,Diego Perez,gps,Activo,Desconexion espontanea,06/12/2023,17/12/2024,no,Completada,377,2501,Venezuela,69.33,94.75
+D0884,C001,Elena Ramirez,monitor,Activo,Imagen borrosa,30/01/2024,09/04/2024,si,Completada,70,1707,Saint Vincent y las Granadinas,56.69,91.71
+D0885,C003,Valeria Gonzalez,gps,Inactivo,No conecta bien,28/07/2023,01/08/2024,no,Completada,370,1724,Uruguay,77.14,83.87
+D0886,C008,Miguel Gonzalez,gps,Activo,No reconoce los datos,04/12/2024,06/12/2024,si,Pendiente,2,1527,Nicaragua,61.86,88.58
+D0887,C010,Miguel Lopez,gps,Activo,Desconexion espontanea,25/11/2024,13/12/2024,si,Pendiente,18,2766,Guyana,78.77,92.81
+D0888,C010,Elena Flores,monitor,Inactivo,Imagen borrosa,21/01/2023,16/02/2024,no,Pendiente,391,2738,Saint Kitts y Nevis,65.96,97.33
+D0889,C008,Lucia Diaz,monitor,Activo,No conecta bien,11/01/2023,10/09/2024,si,Completada,608,2585,Chile,58.61,81.95
+D0890,C007,Fernando Diaz,camara,Inactivo,No reconoce los datos,01/05/2024,26/11/2024,si,Completada,209,2824,Nicaragua,60.73,98.07
+D0891,C002,Isabel Castillo,monitor,Inactivo,Desconexion espontanea,14/06/2023,31/07/2023,no,Completada,47,1875,Nicaragua,68.22,95.51
+D0892,C002,Jorge Morales,gps,Activo,Imagen borrosa,10/01/2023,04/11/2023,si,Completada,298,2229,Nicaragua,57.82,86.13
+D0893,C004,Diego Diaz,monitor,En mantenimiento,No conecta bien,28/01/2023,25/04/2024,si,Pendiente,453,2017,Argentina,66.52,91.83
+D0894,C006,Eduardo Ortega,monitor,En mantenimiento,No reconoce los datos,08/01/2024,14/09/2024,si,Completada,250,2860,Republica Dominicana,67.55,96.67
+D0895,C004,Juan Gonzalez,monitor,En mantenimiento,Desconexion espontanea,04/01/2023,08/12/2023,no,Completada,338,1699,El Salvador,53.61,93.46
+D0896,C004,Elena Morales,gps,Inactivo,Imagen borrosa,24/02/2023,05/02/2024,si,Pendiente,346,2978,Honduras,54.64,97.44
+D0897,C003,Juan Martinez,monitor,Activo,No conecta bien,05/10/2024,06/10/2024,si,Pendiente,1,2877,Saint Kitts y Nevis,65.72,99.08
+D0898,C006,Francisco Morales,gps,En mantenimiento,No reconoce los datos,03/11/2023,02/08/2024,si,Pendiente,273,2820,Guyana,52.62,81.1
+D0899,C010,Diego Diaz,camara,En mantenimiento,Desconexion espontanea,13/04/2023,19/03/2024,no,Completada,341,2271,Venezuela,62.75,90.62
+D0900,C009,Mariana Ramirez,gps,Inactivo,Imagen borrosa,12/10/2023,25/04/2024,no,Pendiente,196,2853,Dominica,52.89,97.13
+D0901,C002,Maria Vargas,gps,Activo,No conecta bien,27/06/2023,26/09/2024,no,Pendiente,457,2325,El Salvador,74.79,94.38
+D0902,C007,Carmen Morales,gps,Activo,No reconoce los datos,14/11/2023,17/12/2024,no,Completada,399,2909,El Salvador,66.42,91.58
+D0903,C009,Elena Castillo,monitor,Inactivo,Desconexion espontanea,05/04/2024,10/05/2024,no,Completada,35,2262,Santa Lucia,75.19,83.41
+D0904,C009,Gabriel Sanchez,gps,En mantenimiento,Imagen borrosa,26/05/2023,03/10/2023,no,Pendiente,130,2792,Ecuador,64.93,82.48
+D0905,C007,Carmen Cruz,gps,En mantenimiento,No conecta bien,05/03/2023,08/12/2024,no,Pendiente,644,2689,San Cristobal y Nieves,74.28,92.2
+D0906,C001,Raul Ortega,camara,Activo,No reconoce los datos,01/03/2023,21/06/2023,no,Pendiente,112,2742,Paraguay,62.47,87.38
+D0907,C008,Raul Ortega,camara,Activo,Desconexion espontanea,22/02/2024,25/12/2024,no,Pendiente,307,1917,Costa Rica,53.95,88.36
+D0908,C007,Ana Perez,gps,Inactivo,Imagen borrosa,05/01/2023,08/03/2024,no,Pendiente,428,2725,Brasil,71.5,89.83
+D0909,C010,Carmen Cruz,camara,En mantenimiento,No conecta bien,05/03/2024,25/09/2024,no,Pendiente,204,1630,Dominica,79.89,91.17
+D0910,C002,Jorge Diaz,camara,Inactivo,No reconoce los datos,14/07/2023,16/12/2023,no,Completada,155,2211,Trinidad y Tobago,78.19,92.92
+D0911,C007,Alejandra Castillo,camara,Inactivo,Desconexion espontanea,14/10/2024,29/11/2024,si,Pendiente,46,2445,Guyana,75.42,88.54
+D0912,C008,Lucia Vargas,monitor,En mantenimiento,Imagen borrosa,19/07/2023,26/11/2023,no,Completada,130,2396,Santa Lucia,66.68,88.06
+D0913,C006,Juan Garcia,monitor,Inactivo,No conecta bien,04/04/2024,27/04/2024,si,Pendiente,23,1586,Uruguay,78.14,98.93
+D0914,C005,Diego Rodriguez,monitor,Activo,No reconoce los datos,26/07/2023,11/10/2023,si,Pendiente,77,2118,Honduras,69.35,99.34
+D0915,C007,Elena Ramirez,monitor,En mantenimiento,Desconexion espontanea,25/10/2023,16/12/2023,no,Completada,52,2035,Brasil,55.83,96.65
+D0916,C004,Fernando Lopez,gps,En mantenimiento,Imagen borrosa,14/11/2024,20/12/2024,no,Completada,36,2229,Honduras,73.49,97.4
+D0917,C007,Fernando Rodriguez,monitor,Activo,No conecta bien,30/04/2024,01/07/2024,no,Completada,62,2401,Bolivia,71.08,85.06
+D0918,C004,Elena Vargas,gps,Activo,No reconoce los datos,09/01/2024,24/05/2024,si,Completada,136,1890,Antigua y Barbuda,67.59,96.26
+D0919,C001,Antonio Flores,gps,En mantenimiento,Desconexion espontanea,14/10/2023,23/05/2024,no,Pendiente,222,1546,Saint Lucia,54.65,81.7
+D0920,C001,Antonio Gonzalez,gps,Activo,Imagen borrosa,15/10/2024,08/12/2024,si,Pendiente,54,2838,Guatemala,78.85,94.9
+D0921,C002,Paula Diaz,monitor,Activo,No conecta bien,02/04/2023,05/10/2023,no,Pendiente,186,2071,Brasil,73.87,97.66
+D0922,C001,Antonio Ortega,gps,Inactivo,No reconoce los datos,08/06/2024,26/10/2024,no,Completada,140,1862,Surinam,69.99,82.35
+D0923,C004,Carmen Garcia,gps,En mantenimiento,Desconexion espontanea,18/12/2024,28/12/2024,no,Completada,10,2513,Mexico,54.43,83.64
+D0924,C007,Andrea Cruz,gps,Activo,Imagen borrosa,08/09/2024,11/11/2024,no,Pendiente,64,2388,Dominica,60.32,86.86
+D0925,C010,Ana Gonzalez,gps,En mantenimiento,No conecta bien,10/02/2023,15/02/2024,si,Completada,370,2732,Bolivia,78.78,98.02
+D0926,C005,Sofia Torres,camara,Inactivo,No reconoce los datos,13/10/2024,05/12/2024,no,Pendiente,53,2237,Barbados,76.23,93.11
+D0927,C008,Luis Lopez,gps,Activo,Desconexion espontanea,05/08/2024,22/08/2024,si,Completada,17,2871,Chile,71.97,88.41
+D0928,C006,Paula Sanchez,gps,Inactivo,Imagen borrosa,19/06/2023,25/05/2024,si,Completada,341,2415,Cuba,69.61,96.87
+D0929,C006,Juan Vargas,camara,Activo,No conecta bien,02/07/2023,23/11/2024,si,Pendiente,510,2346,Saint Vincent y las Granadinas,61.97,98.53
+D0930,C009,Eduardo Hernandez,gps,Inactivo,No reconoce los datos,11/07/2024,07/08/2024,no,Pendiente,27,2886,Argentina,57.37,80.99
+D0931,C004,Maria Vargas,monitor,Activo,Desconexion espontanea,19/06/2024,29/12/2024,si,Completada,193,1754,Antigua y Barbuda,63.4,80.47
+D0932,C008,Elena Ramirez,camara,En mantenimiento,Imagen borrosa,22/02/2023,18/06/2023,si,Pendiente,116,1887,Saint Kitts y Nevis,51.13,84.44
+D0933,C008,Isabel Perez,gps,Inactivo,No conecta bien,20/07/2024,28/10/2024,si,Completada,100,2518,Surinam,72.32,97.97
+D0934,C003,Paula Ortega,monitor,Inactivo,No reconoce los datos,27/10/2024,14/12/2024,no,Completada,48,1853,Paraguay,57.73,96.55
+D0935,C005,Antonio Hernandez,monitor,Inactivo,Desconexion espontanea,14/05/2024,05/10/2024,si,Pendiente,144,2686,Uruguay,70.52,91.83
+D0936,C008,Antonio Vargas,monitor,Activo,Imagen borrosa,15/08/2023,06/02/2024,no,Pendiente,175,2648,Republica Dominicana,58.83,87.2
+D0937,C006,Luis Morales,gps,Inactivo,No conecta bien,03/03/2024,08/11/2024,no,Pendiente,250,2816,Paraguay,51.56,90.87
+D0938,C010,Carlos Lopez,monitor,Inactivo,No reconoce los datos,17/11/2023,11/03/2024,si,Pendiente,115,2113,Nicaragua,61.18,88.07
+D0939,C007,Antonio Perez,gps,Inactivo,Desconexion espontanea,12/01/2023,01/01/2024,no,Pendiente,354,2799,Trinidad y Tobago,60.82,92.12
+D0940,C010,Fernando Ramirez,monitor,Activo,Imagen borrosa,04/08/2024,08/10/2024,si,Completada,65,1982,Barbados,55.05,98.49
+D0941,C007,Francisco Ramirez,camara,En mantenimiento,No conecta bien,04/04/2023,24/06/2024,no,Completada,447,2902,Barbados,54.95,84.64
+D0942,C009,Raul Garcia,gps,Inactivo,No reconoce los datos,24/12/2023,11/12/2024,si,Pendiente,353,2046,Panama,52.14,89.85
+D0943,C003,Carmen Hernandez,camara,Activo,Desconexion espontanea,06/05/2023,16/07/2024,no,Pendiente,437,2990,Uruguay,53.01,91.72
+D0944,C008,Maria Morales,camara,Activo,Imagen borrosa,14/08/2023,13/02/2024,no,Pendiente,183,2746,Guatemala,58.4,97.37
+D0945,C003,Lucia Sanchez,camara,Inactivo,No conecta bien,05/08/2023,22/10/2024,si,Pendiente,444,2438,Trinidad y Tobago,68.93,86.14
+D0946,C001,Alejandra Torres,gps,Inactivo,No reconoce los datos,09/12/2023,25/05/2024,no,Completada,168,2215,Guyana,78.71,94.43
+D0947,C005,Mariana Castillo,gps,Activo,Desconexion espontanea,14/01/2023,19/03/2023,no,Completada,64,1801,Guyana,57.7,88.03
+D0948,C001,Andrea Vargas,monitor,Activo,Imagen borrosa,07/08/2024,24/10/2024,si,Completada,78,1880,Colombia,74.86,96.25
+D0949,C007,Fernando Gonzalez,monitor,Inactivo,No conecta bien,06/08/2023,19/08/2023,si,Pendiente,13,1669,Guyana,56.58,98.21
+D0950,C006,Maria Torres,gps,Inactivo,No reconoce los datos,22/05/2023,26/05/2023,si,Pendiente,4,2188,Brasil,66.99,94.21
+D0951,C008,Valeria Vargas,monitor,Activo,Desconexion espontanea,21/03/2024,06/11/2024,no,Completada,230,1848,Argentina,55.6,95.75
+D0952,C006,Raul Castillo,monitor,En mantenimiento,Imagen borrosa,16/01/2023,17/12/2023,si,Completada,335,2887,Bahamas,56.6,81.93
+D0953,C001,Raul Morales,monitor,En mantenimiento,No conecta bien,02/05/2023,19/11/2023,si,Completada,201,1571,Bahamas,78.25,92.89
+D0954,C006,Juan Ramirez,monitor,En mantenimiento,No reconoce los datos,04/06/2023,10/08/2024,si,Completada,433,1991,Saint Lucia,54.58,89.61
+D0955,C003,Maria Diaz,gps,En mantenimiento,Desconexion espontanea,25/04/2023,09/07/2024,no,Completada,441,2997,Belice,63.76,99.94
+D0956,C009,Ana Mendoza,monitor,Inactivo,Imagen borrosa,03/01/2024,28/03/2024,no,Pendiente,85,2834,Peru,61.75,97.18
+D0957,C002,Ana Gomez,camara,En mantenimiento,No conecta bien,16/03/2024,15/10/2024,si,Completada,213,2364,Bolivia,70.6,95.91
+D0958,C005,Ana Ramos,monitor,Activo,No reconoce los datos,28/05/2024,10/09/2024,si,Pendiente,105,1635,Barbados,74.61,96.53
+D0959,C010,Francisco Ramos,monitor,En mantenimiento,Desconexion espontanea,08/08/2024,04/11/2024,no,Pendiente,88,2003,Ecuador,78.87,94.86
+D0960,C004,Juan Cruz,gps,Activo,Imagen borrosa,29/08/2024,01/11/2024,si,Completada,64,2750,Peru,55.22,96.07
+D0961,C010,Gabriel Hernandez,gps,Activo,No conecta bien,23/12/2023,03/02/2024,no,Pendiente,42,2618,San Cristobal y Nieves,51.64,82.77
+D0962,C007,Eduardo Torres,gps,Activo,No reconoce los datos,23/12/2024,29/12/2024,si,Completada,6,1891,Paraguay,55.99,98.85
+D0963,C006,Carmen Mendoza,monitor,En mantenimiento,Desconexion espontanea,10/02/2024,30/06/2024,si,Completada,141,1830,Nicaragua,72.14,92.55
+D0964,C009,Lucia Gonzalez,camara,Activo,Imagen borrosa,26/06/2023,10/06/2024,no,Completada,350,2296,Nicaragua,54.73,96.61
+D0965,C001,Raul Morales,gps,Inactivo,No conecta bien,18/08/2023,08/11/2024,si,Completada,448,2440,Guatemala,55.99,94.27
+D0966,C004,Carlos Ramirez,gps,En mantenimiento,No reconoce los datos,29/12/2024,29/12/2024,si,Completada,0,1728,Saint Vincent y las Granadinas,58.2,99.79
+D0967,C001,Sofia Ramirez,monitor,En mantenimiento,Desconexion espontanea,15/01/2023,15/05/2024,no,Completada,486,2006,Nicaragua,73.83,85.13
+D0968,C007,Sofia Perez,gps,Inactivo,Imagen borrosa,01/04/2023,12/09/2024,no,Pendiente,530,1685,Cuba,68.42,94.56
+D0969,C002,Raul Torres,camara,En mantenimiento,No conecta bien,11/08/2023,21/07/2024,no,Completada,345,2139,Colombia,74.52,94.84
+D0970,C003,Ana Torres,gps,En mantenimiento,No reconoce los datos,04/05/2024,16/08/2024,no,Completada,104,2093,Peru,62.82,90.56
+D0971,C003,Elena Ortega,gps,En mantenimiento,Desconexion espontanea,11/12/2024,16/12/2024,si,Completada,5,2544,Chile,67.13,81.65
+D0972,C001,Diego Vargas,camara,En mantenimiento,Imagen borrosa,10/01/2024,05/09/2024,no,Pendiente,239,2104,Brasil,70.42,98.71
+D0973,C002,Andrea Gonzalez,monitor,Inactivo,No conecta bien,23/09/2023,25/06/2024,no,Completada,276,2795,Saint Kitts y Nevis,71.36,95.92
+D0974,C008,Antonio Diaz,monitor,En mantenimiento,No reconoce los datos,16/02/2024,26/11/2024,no,Completada,284,2315,Surinam,69.91,86.97
+D0975,C002,Carmen Gomez,monitor,En mantenimiento,Desconexion espontanea,01/08/2024,07/12/2024,si,Completada,128,2988,Antigua y Barbuda,73.37,85.54
+D0976,C005,Maria Rodriguez,camara,Activo,Imagen borrosa,21/08/2023,07/11/2023,si,Completada,78,2045,Nicaragua,70.78,97.53
+D0977,C006,Jorge Castillo,monitor,En mantenimiento,No conecta bien,05/11/2024,19/11/2024,no,Pendiente,14,2785,Colombia,67.22,90.8
+D0978,C002,Luis Lopez,gps,En mantenimiento,No reconoce los datos,05/05/2023,29/01/2024,si,Completada,269,2749,Santa Lucia,58.97,84.41
+D0979,C001,Lucia Rodriguez,gps,Inactivo,Desconexion espontanea,24/04/2024,28/05/2024,no,Completada,34,1748,Republica Dominicana,69.67,96.29
+D0980,C003,Fernando Vargas,camara,Inactivo,Imagen borrosa,26/09/2024,27/09/2024,no,Completada,1,2045,Granada,75.43,81.3
+D0981,C007,Diego Garcia,monitor,Inactivo,No conecta bien,04/03/2024,30/10/2024,no,Pendiente,240,2552,Ecuador,65.78,90.64
+D0982,C008,Luis Martinez,gps,Inactivo,No reconoce los datos,22/04/2023,26/10/2023,si,Pendiente,187,2466,Saint Kitts y Nevis,53.47,84.87
+D0983,C004,Mariana Diaz,monitor,Activo,Desconexion espontanea,27/04/2023,22/10/2024,no,Pendiente,544,2580,Venezuela,68.38,94.53
+D0984,C010,Sofia Vargas,camara,En mantenimiento,Imagen borrosa,11/10/2023,12/10/2024,no,Pendiente,367,2188,Granada,54.68,85.11
+D0985,C005,Lucia Perez,gps,Activo,No conecta bien,28/06/2024,27/08/2024,si,Pendiente,60,2822,Granada,60.23,92.35
+D0986,C006,Gabriel Vargas,camara,En mantenimiento,No reconoce los datos,19/05/2024,24/08/2024,no,Pendiente,97,1799,Saint Kitts y Nevis,71.22,86.16
+D0987,C007,Alejandra Torres,gps,En mantenimiento,Desconexion espontanea,10/07/2023,10/07/2024,si,Completada,366,2280,Saint Vincent y las Granadinas,65.69,84.94
+D0988,C002,Carlos Diaz,camara,Activo,Imagen borrosa,19/02/2023,09/05/2023,no,Pendiente,79,2252,Saint Vincent y las Granadinas,64.11,94.19
+D0989,C002,Andrea Gomez,monitor,Inactivo,No conecta bien,22/05/2024,13/11/2024,no,Completada,175,2197,Saint Vincent y las Granadinas,55.86,95.76
+D0990,C010,Carlos Hernandez,gps,En mantenimiento,No reconoce los datos,26/04/2024,13/06/2024,no,Pendiente,48,2502,Uruguay,75.69,88.11
+D0991,C001,Fernando Garcia,camara,Inactivo,Desconexion espontanea,08/05/2023,22/07/2023,si,Pendiente,75,2948,El Salvador,62.92,84.69
+D0992,C010,Luis Ortega,camara,Activo,Imagen borrosa,24/08/2024,17/09/2024,no,Pendiente,24,1562,Cuba,71.27,89.86
+D0993,C006,Raul Gonzalez,monitor,En mantenimiento,No conecta bien,30/06/2023,03/03/2024,no,Completada,247,2843,Peru,66.75,81.32
+D0994,C009,Miguel Rodriguez,camara,Inactivo,No reconoce los datos,15/09/2023,29/11/2024,no,Completada,441,2540,Ecuador,73.83,85.48
+D0995,C002,Antonio Torres,monitor,Activo,Desconexion espontanea,09/02/2023,09/06/2023,si,Pendiente,120,2236,Dominica,76.25,94.85
+D0996,C007,Maria Ramos,gps,Activo,Imagen borrosa,30/01/2024,31/08/2024,si,Pendiente,214,2868,Panama,52.88,94.83
+D0997,C004,Maria Mendoza,gps,Inactivo,No conecta bien,26/08/2023,28/07/2024,si,Completada,337,1755,Bahamas,68.71,85.24
+D0998,C010,Raul Cruz,monitor,En mantenimiento,No reconoce los datos,26/04/2024,26/11/2024,no,Completada,230,2971,Ecuador,75.69,98.42
+D0999,C003,Ana Lopez,monitor,Activo,Desconexion espontanea,26/09/2024,17/12/2024,si,Completada,82,2367,Costa Rica,54.84,86.23
+D1000,C009,Jorge Garcia,monitor,Inactivo,Imagen borrosa,01/12/2024,26/12/2024,si,Pendiente,25,1954,Uruguay,60.42,92.77
